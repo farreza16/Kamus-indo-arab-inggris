@@ -1,0 +1,838 @@
+﻿category,indonesia,indonesia_audio,arabic,arabic_audio,english,english_audio
+KATA SAPAAN,Selamat pagi,selamat_pagi_id.mp3,صَبَاحُ الخَيْرِ,selamat_pagi_ar.mp3,Good morning,selamat_pagi_ing.mp3
+KATA SAPAAN,Selamat pagi juga,selamat_pagi_juga_id.mp3,صَبَاحُ النُّوْر,selamat_pagi_juga_ar.mp3,Good morning,selamat_pagi_juga_ing.mp3
+KATA SAPAAN,Selamat siang,selamat_siang_id.mp3,نَهَارُكَ سَعِيْد,selamat_siang_ar.mp3,Good afternoon,selamat_siang_ing.mp3
+KATA SAPAAN,Selamat siang (kembali),selamat_siang_kembali_id.mp3,سَعِيْدٌ مُبَارَك,selamat_siang_kembali_ar.mp3,Good afternoon,selamat_siang_kembali_ing.mp3
+KATA SAPAAN,Selamat sore,selamat_sore_id.mp3,مَسَاءُ الخَيْر,selamat_sore_ar.mp3,Good afternoon,selamat_sore_ing.mp3
+KATA SAPAAN,Selamat sore (kembali),selamat_sore_kembali_id.mp3,مَسَاءُ النُّوْر,selamat_sore_kembali_ar.mp3,Good afternoon,selamat_sore_kembali_ing.mp3
+KATA SAPAAN,Selamat malam,selamat_malam_id.mp3,لَيْلَةٌ سَعِيْدَة,selamat_malam_ar.mp3,Good evening,selamat_malam_ing.mp3
+KATA SAPAAN,Selamat malam (juga),selamat_malam_juga_id.mp3,سَعِيْدَةٌ مُبَارَكَة,selamat_malam_juga_ar.mp3,Good evening,selamat_malam_juga_ing.mp3
+KATA SAPAAN,Selamat datang,selamat_datang_id.mp3,أَهْلًا وَسَهْلًا,selamat_datang_ar.mp3,Welcome,selamat_datang_ing.mp3
+KATA SAPAAN,Selamat jalan,selamat_jalan_id.mp3,مَعَ السَّلَامَة,selamat_jalan_ar.mp3,Have a nice trip,selamat_jalan_ing.mp3
+KATA SAPAAN,Sampai jumpa,sampai_jumpa_id.mp3,إِلَى اللِّقَاء,sampai_jumpa_ar.mp3,See you,sampai_jumpa_ing.mp3
+KATA SAPAAN,Apa kabar?,apa_kabar_id.mp3,كَيْفَ حَالُكَ؟,apa_kabar_ar.mp3,How are you?,apa_kabar_ing.mp3,Apa kabar?,apa_kabar_id.mp3,كَيْفَ حَالُكَ؟,apa_kabar_ar.mp3,How are you?,apa_kabar_ing.mp3
+KATA SAPAAN,Alhamdulillah baik,alhamdulilah_baik_id.mp3,الحَمْدُ لِلَّهِ بِخَيْرٍ,alhamdulilah_baik_ar.mp3,Alhamdulillah fine,alhamdulilah_baik_ing.mp3
+KATA SAPAAN,Senang bertemu denganmu,senang_bertemu_denganmu_id.mp3,أَنَا سَعِيْدٌ بِلِقَائِكَ,senang_bertemu_denganmu_ar.mp3,Nice to meet you,senang_bertemu_denganmu_ing.mp3
+KATA SAPAAN,Permisi,permisi_id.mp3,مِنْ فَضْلِك,permisi_ar.mp3,Excuse me,permisi_ing.mp3
+KATA SAPAAN,Terima kasih banyak,terima_kasih_banyak_id.mp3,شُكْرًا جَزِيلاً,terima_kasih_banyak_ar.mp3,Thank you so much,terima_kasih_banyak_ing.mp3
+KATA SAPAAN,Sama-sama,sama_sama_id.mp3,عَفْوًا,sama_sama_ar.mp3,You're welcome,sama_sama_ing.mp3
+KATA SAPAAN,Semoga cepat sembuh,semoga_cepat_sembuh_id.mp3,شَفَاكَ اللَّهُ,semoga_cepat_sembuh_ar.mp3,Have a speedy recovery,semoga_cepat_sembuh_ing.mp3
+KATA SAPAAN,Semoga lulus,semoga_lulus_id.mp3,مَعَ النَّجَاحِ,semoga_lulus_ar.mp3,Hope you graduate,semoga_lulus_ing.mp3
+HARI,Hari Minggu,Hari_Minggu_id.mp3,يَوْمُ الأَحَد,Hari_Minggu_ar.mp3,Sunday,Hari_Minggu_eng.mp3
+HARI,Hari Senin,Hari_Senin_id.mp3,يَوْمُ الإِثْنَيْن,Hari_Senin_ar.mp3,Monday,Hari_Senin_eng.mp3
+HARI,Hari Selasa,Hari_Selasa_id.mp3,يَوْمُ الثُّلاَثَاء,Hari_Selasa_ar.mp3,Tuesday,Hari_Selasa_eng.mp3
+HARI,Hari Rabu,Hari_Rabu_id.mp3,يَوْمُ الأَرْبِعَاء,Hari_Rabu_ar.mp3,Wednesday,Hari_Rabu_eng.mp3
+HARI,Hari Kamis,Hari_Kamis_id.mp3,يَوْمُ الخَمِيْس,Hari_Kamis_ar.mp3,Thursday,Hari_Kamis_eng.mp3
+HARI,Hari Jum'at,Hari_Jumat_id.mp3,يَوْمُ الجُمُعَة,Hari_Jumat_ar.mp3,Friday,Hari_Jumat_eng.mp3
+HARI,Hari Sabtu,Hari_Sabtu_id.mp3,يَوْمُ السَّبْت,Hari_Sabtu_ar.mp3,Saturday,Hari_Sabtu_eng.mp3
+HARI,Hari Libur,Hari_Libur_id.mp3,يَوْمُ العُطْلَة,Hari_Libur_ar.mp3,Weekend,Hari_Libur_eng.mp3
+HARI,Hari Kerja,Hari_Kerja_id.mp3,يَوْمُ العَمَل,Hari_Kerja_ar.mp3,Workday,Hari_Kerja_eng.mp3
+HARI,Hari Raya,Hari_Raya_id.mp3,يَوْمُ العِيْد,Hari_Raya_ar.mp3,Holiday,Hari_Raya_eng.mp3
+HARI,Hari Lahir,Hari_Lahir_id.mp3,يَوْمُ المِيْلاَد,Hari_Lahir_ar.mp3,Birthday,Hari_Lahir_eng.mp3
+HARI,Hari Wafat,Hari_wafat_id.mp3,يَوْمُ الوَفَاة,Hari_Wafat_ar.mp3,Day of death,Hari_Wafat_eng.mp3
+HARI,Hari Ini,Hari_Ini_id.mp3,اليَوْم,Hari_Ini_ar.mp3,Today,Hari_Ini_eng.mp3
+HARI,Kemarin,Kemarin_id.mp3,أَمْس,Kemarin_ar.mp3,Yesterday,Kemarin_eng.mp3
+HARI,Besok,Besok_id.mp3,غَداً,Besok_ar.mp3,Tomorrow,Besok_eng.mp3
+HARI,Esok Lusa,Esok_Lusa_id.mp3,بَعْدَ يَوْمَيْن,Esok_Lusa_ar.mp3,The day after tomorrow,Esok_Lusa_eng.mp3
+HARI,Kemarin Lusa,Kemarin_Lusa_id.mp3,قَبْلَ يَوْمَيْن,Kemarin_Lusa_ar.mp3,The day before yesterday,Kemarin_Lusa_eng.mp3
+HARI,Pekan,Pekan_id.mp3,أُسْبُوْعٌ,Pekan_ar.mp3,Week,Pekan_eng.mp3
+HARI,Pada Suatu Hari,Pada_Suatu_Hari_id.mp3,فِي يَوْم مِنَ الأَيَّام,Pada_Suatu_Hari_ar.mp3,Once upon a time,Pada_Suatu_Hari_eng.mp3
+HARI,Hari Demi Hari,Hari_Demi_Hari_id.mp3,يَوْمًا فَيَوْمًا,Hari_Demi_Hari_ar.mp3,Day by day,Hari_Demi_Hari_eng.mp3
+HARI,Pada Hari Itu,Pada_Hari_Itu_id.mp3,فَيَوْمَئِذ,Pada_Hari_Itu_ar.mp3,On that day,Pada_Hari_Itu_eng.mp3
+BULAN HIJRIAH,Bulan,bulan_id.mp3,الشَّهْرُ,bulan_ar.mp3,Month,bulan_eng.mp3
+BULAN HIJRIAH,Muharram,muharram_id.mp3,ٱلْمُحَرَّمُ,muharram_ar.mp3,Muharram,muharram_eng.mp3
+BULAN HIJRIAH,Safar,saffar_id.mp3,صَفَرٌ,saffar_ar.mp3,Safar,saffar_eng.mp3
+BULAN HIJRIAH,Rabiul Awal,rabiul_awal_id.mp3,رَبِيعُ ٱلْأَوَّلِ,rabiul_awal_ar.mp3,Rabiul Awal,rabiul_awal_eng.mp3
+BULAN HIJRIAH,Rabiul Tsani,rabiul_tsani_id.mp3,رَبِيعُ ٱلثَّانِي,rabiul_tsani_ar.mp3,Rabiul Tsani,rabiul_tsani_eng.mp3
+BULAN HIJRIAH,Jumadil Awal,jumadil_awal_id.mp3,جُمَادَى ٱلْأُولَى,jumadil_awal_ar.mp3,Jumadil Awal,jumadil_awal_eng.mp3
+BULAN HIJRIAH,Jumadil Tsani,jumadil_tsani_id.mp3,جُمَادَى ٱلثَّانِيَة,jumadil_tsani_ar.mp3,Jumadil Tsani,jumadil_tsani_eng.mp3
+BULAN HIJRIAH,Rajab,rajab_id.mp3,رَجَبٌ,rajab_ar.mp3,Rajab,rajab_eng.mp3
+BULAN HIJRIAH,Sya'ban,syaban_id.mp3,شَعْبَانُ,syaban_ar.mp3,Sya'ban,syaban_eng.mp3
+BULAN HIJRIAH,Ramadhan,ramadhan_id.mp3,رَمَضَانُ,ramadhan_ar.mp3,Ramadhan,ramadhan_eng.mp3
+BULAN HIJRIAH,Syawal,syawal_id.mp3,شَوَّالٌ,syawal_ar.mp3,Syawal,syawal_eng.mp3
+BULAN HIJRIAH,Dzulqo'dah,dzulqodah_id.mp3,ذُو ٱلْقَعْدَةِ,dzulqodah_ar.mp3,Dhu al-Qi'dah,dzulqodah_eng.mp3
+BULAN HIJRIAH,Dzulhijjah,dzulhijjah_id.mp3,ذُو ٱلْحِجَّةِ,dzulhijjah_ar.mp3,Dhu al-Hijjah,dzulhijjah_eng.mp3
+NAMA BULAN MASEHI,Januari,januari_id.mp3,يَنَايِر,januari_ar.mp3,January,januari_eng.mp3
+NAMA BULAN MASEHI,Februari,februari_id.mp3,فِبْرَايِر,februari_ar.mp3,February,februari_eng.mp3
+NAMA BULAN MASEHI,Maret,maret_id.mp3,مَارِس,maret_ar.mp3,March,maret_eng.mp3
+NAMA BULAN MASEHI,April,april_id.mp3,أَبْرِيل,april_ar.mp3,April,april_eng.mp3
+NAMA BULAN MASEHI,Mei,mei_id.mp3,مَايُو,mei_ar.mp3,May,mei_eng.mp3
+NAMA BULAN MASEHI,Juni,juni_id.mp3,يُونِيُو,juni_ar.mp3,June,juni_eng.mp3
+NAMA BULAN MASEHI,Juli,juli_id.mp3,يُولِيُو,juli_ar.mp3,July,juli_eng.mp3
+NAMA BULAN MASEHI,Agustus,agustus_id.mp3,أَغُسْطُس,agustus_ar.mp3,August,agustus_eng.mp3
+NAMA BULAN MASEHI,September,september_id.mp3,سِبْتَمْبَر,september_ar.mp3,September,september_eng.mp3
+NAMA BULAN MASEHI,Oktober,oktober_id.mp3,أُكْتُوبَر,oktober_ar.mp3,October,oktober_eng.mp3
+NAMA BULAN MASEHI,November,november_id.mp3,نُوفَمْبَر,november_ar.mp3,November,november_eng.mp3
+NAMA BULAN MASEHI,Desember,desember_id.mp3,دِيسَمْبَر,desember_ar.mp3,December,desember_eng.mp3
+WARNA,Warna,warna_id.mp3,أَلْوَان,warna_ar.mp3,Colour,warna_eng.mp3
+WARNA,Hitam,hitam_id.mp3,أَسْوَدْ,hitam_ar.mp3,Black,hitam_eng.mp3
+WARNA,Putih,putih_id.mp3,أَبْيَضْ,putih_ar.mp3,White,putih_eng.mp3
+WARNA,Merah,merah_id.mp3,أَحْمَر,merah_ar.mp3,Red,merah_eng.mp3
+WARNA,Biru,biru_id.mp3,أَزْرَق,biru_ar.mp3,Blue,biru_eng.mp3
+WARNA,Hijau,hijau_id.mp3,أَخْضَرْ,hijau_ar.mp3,Green,hijau_eng.mp3
+WARNA,Kuning,kuning_id.mp3,أَصْفَرْ,kuning_ar.mp3,Yellow,kuning_eng.mp3
+WARNA,Orange,orange_id.mp3,بُرْتُقَالِيّ,orange_ar.mp3,Orange,orange_eng.mp3
+WARNA,Ungu,ungu_id.mp3,بَنَفْسَجِيّ,ungu_ar.mp3,Purple,ungu_eng.mp3
+WARNA,Abu-abu,abu_id.mp3,رَمَادِيّ,abu_ar.mp3,Gray,abu_eng.mp3
+WARNA,Merah Muda,merah-muda_id.mp3,وَرْدِيّ,merah_muda_ar.mp3,Pink,merah_muda_eng.mp3
+WARNA,Coklat,coklat_id.mp3,بُنِّيّ,coklat_ar.mp3,Brown,coklat_eng.mp3
+ANGKA SATUAN,Angka,angka_id.mp3,الأَرْقَامُ,angka_ar.mp3,Numbers,angka_eng.mp3
+ANGKA SATUAN,Nol,nol_id.mp3,صِفْرٌ,nol_ar.mp3,Zero,nol_eng.mp3
+ANGKA SATUAN,Satu,satu_id.mp3,وَاحِدٌ,satu_ar.mp3,One,satu_eng.mp3
+ANGKA SATUAN,Dua,dua_id.mp3,إِثْنَانِ,dua_ar.mp3,Two,dua_eng.mp3
+ANGKA SATUAN,Tiga,tiga_id.mp3,ثَلاَثَةٌ,tiga_ar.mp3,Three,tiga_eng.mp3
+ANGKA SATUAN,Empat,empat_id.mp3,أَرْبَعَةٌ,empat_ar.mp3,Four,empat_eng.mp3
+ANGKA SATUAN,Lima,lima_id.mp3,خَمْسَةٌ,lima_ar.mp3,Five,lima_eng.mp3
+ANGKA SATUAN,Enam,enam_id.mp3,سِتَّةٌ,enam_ar.mp3,Six,enam_eng.mp3
+ANGKA SATUAN,Tujuh,tujuh_id.mp3,سَبْعَةٌ,tujuh_ar.mp3,Seven,tujuh_eng.mp3
+ANGKA SATUAN,Delapan,delapan_id.mp3,ثَمَانِيَةٌ,delapan_ar.mp3,Eight,delapan_eng.mp3
+ANGKA SATUAN,Sembilan,sembilan_id.mp3,تِسْعَةٌ,sembilan_ar.mp3,Nine,sembilan_eng.mp3
+ANGKA SATUAN,Sepuluh,sepuluh_id.mp3,عَشَرَةٌ,sepuluh_ar.mp3,Ten,sepuluh_eng.mp3
+ANGKA BELASAN,Sebelas,sebelas_id.mp3,أَحَدَ عَشَر,sebelas_ar.mp3,Eleven,sebelas_eng.mp3
+ANGKA BELASAN,Dua Belas,duabelas_id.mp3,إِثْنَا عَشَر,duabelas_ar.mp3,Twelve,duabelas_eng.mp3
+ANGKA BELASAN,Tiga Belas,tigabelas_id.mp3,ثَلاَثَةَ عَشَر,tigabelas_ar.mp3,Thirteen,tigabelas_eng.mp3
+ANGKA BELASAN,Empat Belas,empatbelas_id.mp3,أَرْبَعَةَ عَشَر,empatbelas_ar.mp3,Fourteen,empatbelas_eng.mp3
+ANGKA BELASAN,Lima Belas,limabelas_id.mp3,خَمْسَةَ عَشَر,limabelas_ar.mp3,Fifteen,limabelas_eng.mp3
+ANGKA BELASAN,Enam Belas,enambelas_id.mp3,سِتَّةَ عَشَر,enambelas_ar.mp3,Sixteen,enambelas_eng.mp3
+ANGKA BELASAN,Tujuh Belas,tujuhbelas_id.mp3,سَبْعَةَ عَشَر,tujuhbelas_ar.mp3,Seventeen,tujuhbelas_eng.mp3
+ANGKA BELASAN,Delapan Belas,delapanbelas_id.mp3,ثَمَانِيَةَ عَشَر,delapanbelas_ar.mp3,Eighteen,delapanbelas_eng.mp3
+ANGKA BELASAN,Sembilan Belas,sembilanbelas_id.mp3,تِسْعَةَ عَشَر,sembilanbelas_ar.mp3,Nineteen,sembilanbelas_eng.mp3
+ANGKA BELASAN,Dua Puluh,duapuluh_id.mp3,عِشْـرُوْنَ,duapuluh_ar.mp3,Twenty,duapuluh_eng.mp3
+ANGKA BELASAN,Tiga Puluh,tigapuluh_id.mp3,ثَلاَثُوْنَ,tigapuluh_ar.mp3,Thirty,tigapuluh_eng.mp3
+ANGKA BELASAN,Empat Puluh,empatpuluh_id.mp3,أَرْبَعُوْنَ,empatpuluh_ar.mp3,Forty,empatpuluh_eng.mp3
+ANGKA BELASAN,Lima Puluh,limapuluh_id.mp3,خَمْسُوْنَ,limapuluh_ar.mp3,Fifty,limapuluh_eng.mp3
+ANGKA BELASAN,Enam Puluh,enampuluh_id.mp3,سِـتُّوْنَ,enampuluh_ar.mp3,Sixty,enampuluh_eng.mp3
+ANGKA BELASAN,Tujuh Puluh,tujuhpuluh_id.mp3,سَبْعُوْنَ,tujuhpuluh_ar.mp3,Seventy,tujuhpuluh_eng.mp3
+ANGKA BELASAN,Delapan Puluh,delapanpuluh_id.mp3,ثَمَانُوْنَ,delapanpuluh_ar.mp3,Eighty,delapanpuluh_eng.mp3
+ANGKA BELASAN,Sembilan Puluh,sembilanpuluh_id.mp3,تِسْعُوْنَ,sembilanpuluh_ar.mp3,Ninety,sembilanpuluh_eng.mp3
+ANGKA BELASAN,Seratus,seratus_id.mp3,مِائَةٌ,seratus_ar.mp3,One hundred,seratus_eng.mp3
+ANGKA BELASAN,Dua Ratus,duaratus_id.mp3,مِائَـتَانِ,duaratus_ar.mp3,Two hundred,duaratus_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Dua Puluh Satu,dua_puluh_satu_id.mp3,وَاحِدٌ وَعِشْرُوْنَ,dua_puluh_satu_ar.mp3,Twenty one,dua_puluh_satu_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Dua Puluh Tiga,dua_puluh_tiga_id.mp3,اِثْنَانِ وَثَلَاثُونَ,dua_puluh_tiga_ar.mp3,Twenty three,dua_puluh_tiga_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Empat Puluh Tiga,empat_puluh_tiga_id.mp3,ثَلاَثَةٌ وَأَرْبَعُوْنَ,empat_puluh_tiga_ar.mp3,Forty three,empat_puluh_tiga_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Lima Puluh Empat,lima_puluh_empat_id.mp3,أَرْبَعَةٌ وَخَمْسُوْنَ,lima_puluh_empat_ar.mp3,Fifty four,lima_puluh_empat_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Enam Puluh Lima,enam_puluh_lima_id.mp3,خَمْسَةٌ وَسِتُّوْنَ,enam_puluh_lima_ar.mp3,Sixty five,enam_puluh_lima_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Tujuh Puluh Enam,tujuh_puluh_enam_id.mp3,سِتَّةٌ وَسَبْعُوْنَ,tujuh_puluh_enam_ar.mp3,Seventy six,tujuh_puluh_enam_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Delapan Puluh Tujuh,delapan_puluh_tujuh_id.mp3,سَبْعَةٌ وَثَمَانُوْنَ,delapan_puluh_tujuh_ar.mp3,Eighty seven,delapan_puluh_tujuh_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Sembilan Puluh Delapan,sembilan_puluh_delapan_id.mp3,ثَمَانِيَةٌ وَتِسْعُوْنَ,sembilan_puluh_delapan_ar.mp3,Ninety eight,sembilan_puluh_delapan_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Sembilan Puluh Satu,sembilan_puluh_satu_id.mp3,وَاحِدٌ وَتِسْعُوْنَ,sembilan_puluh_satu_ar.mp3,Ninety one,sembilan_puluh_satu_eng.mp3
+PULUHAN DIMULAI DENGAN SATUAN,Sembilan Puluh Sembilan,sembilan_puluh_sembilan_id.mp3,تِسْعَةٌ وَتِسْعُوْنَ,sembilan_puluh_sembilan_ar.mp3,Ninety nine,sembilan_puluh_sembilan_eng.mp3
+ANGKA RATUSAN,Tiga Ratus,tigaratus_id.mp3,ثَلاَثُ مِائَةٍ,tigaratus_ar.mp3,Three hundred,tigaratus_eng.mp3
+ANGKA RATUSAN,Empat Ratus,empatratus_id.mp3,أَرْبَعُ مِائَةٍ,empatratus_ar.mp3,Four hundred,empatratus_eng.mp3
+ANGKA RATUSAN,Lima Ratus,limaratus_id.mp3,خَمْسُ مِائَةٍ,limaratus_ar.mp3,Five hundred,limaratus_eng.mp3
+ANGKA RATUSAN,Enam Ratus,enamratus_id.mp3,سِتُّ مِائَةٍ,enamratus_ar.mp3,Six hundred,enamratus_eng.mp3
+ANGKA RATUSAN,Tujuh Ratus,tujuhratus_id.mp3,سَبْعُ مِائَةٍ,tujuhratus_ar.mp3,Seven hundred,tujuhratus_eng.mp3
+ANGKA RATUSAN,Delapan Ratus,delapanratus_id.mp3,ثَمَانُ مِائَةٍ,delapanratus_ar.mp3,Eight hundred,delapanratus_eng.mp3
+ANGKA RATUSAN,Sembilan Ratus,sembilanratus_id.mp3,تِسْعُ مِائَةٍ,sembilanratus_ar.mp3,Nine hundred,sembilanratus_eng.mp3
+ANGKA RATUSAN,Seribu,seribu_id.mp3,أَلْفٌ,seribu_ar.mp3,One thousand,seribu_eng.mp3
+ANGKA RATUSAN,Dua Ribu,duaribu_id.mp3,أَلْفَانِ,duaribu_ar.mp3,Two thousand,duaribu_eng.mp3
+ANGKA RATUSAN,Tiga Ribu,tigaribu_id.mp3,ثَلاَثَةُ أَلْفَانِ,tigaribu_ar.mp3,Three thousand,tigaribu_eng.mp3
+ANGKA RATUSAN,Sejuta,sejuta_id.mp3,مِلْيُوْن,sejuta_ar.mp3,One million,sejuta_eng.mp3
+ANGKA RATUSAN,Dua Juta,duajuta_id.mp3,مِلْيُوْنَانِ,duajuta_ar.mp3,Two million,duajuta_eng.mp3
+ANGKA RATUSAN,Tiga Juta,tigajuta_id.mp3,ثَلاَثَةُ مَلاَيِيْن,tigajuta_ar.mp3,Three million,tigajuta_eng.mp3
+ANGKA RATUSAN,Satu Milyar,satumilyar_id.mp3,مِلْيَارٌ,satumilyar_ar.mp3,One billion,satumilyar_eng.mp3
+ANGKA RATUSAN,Dua Milyar,duamilyar_id.mp3,مِلْيَارَانِ,duamilyar_ar.mp3,Two billion,duamilyar_eng.mp3
+ANGKA RATUSAN,Tiga Milyar,tigamilyar_id.mp3,ثَلاَثَةُ مِلْيَارَات,tigamilyar_ar.mp3,Three billion,tigamilyar_eng.mp3
+ANGKA RATUSAN,Satu Triliun,satutriliun_id.mp3,تَرْيْلِيُوْن,satutriliun_ar.mp3,One trillion,satutriliun_eng.mp3
+PAKAIAN,Kaos,kaos_id.mp3,فَانِلَّةٌ,kaos_ar.mp3,T-shirt,kaos_eng.mp3
+PAKAIAN,Kemeja,kemeja_id.mp3,قَمِيْصٌ,kemeja_ar.mp3,Shirt,kemeja_eng.mp3
+PAKAIAN,Sweater,sweater_id.mp3,سُتْرَةٌ,sweater_ar.mp3,Sweater,sweater_eng.mp3
+PAKAIAN,Jaket,jaket_id.mp3,مِعْطَفٌ,jaket_ar.mp3,Jacket,jaket_eng.mp3
+PAKAIAN,Blouse,blouse_id.mp3,بُلُوْزَةٌ,blouse_ar.mp3,Blouse,blouse_eng.mp3
+PAKAIAN,Gaun,gaun_id.mp3,فُسْتَانٌ,gaun_ar.mp3,Dress,gaun_eng.mp3
+PAKAIAN,Jas,jas_id.mp3,سُتْرَةٌ,jas_ar.mp3,Coat,jas_eng.mp3
+PAKAIAN,Rompi,rompi_id.mp3,صُدْرَةٌ,rompi_ar.mp3,Vest,rompi_eng.mp3
+PAKAIAN,Celana Panjang,celanapanjang_id.mp3,بَنْطَلُوْنٌ,celanapanjang_ar.mp3,Trousers,celanapanjang_eng.mp3
+PAKAIAN,Celana Pendek,celanapendek_id.mp3,سِرْوَال قَصِيْر,celanapendek_ar.mp3,Shorts,celanapendek_eng.mp3
+PAKAIAN,Rok,rok_id.mp3,تَنُّوْرَةٌ,rok_ar.mp3,Skirt,rok_eng.mp3
+PAKAIAN,Daster,daster_id.mp3,فُسْتَانٌ,daster_ar.mp3,Housedress,daster_eng.mp3
+PAKAIAN,Sarung,sarung_id.mp3,إِزَارٌ,sarung_ar.mp3,Sarong,sarung_eng.mp3
+PAKAIAN,Kerudung,kerudung_id.mp3,خِمَارٌ,kerudung_ar.mp3,Veil,kerudung_eng.mp3
+PAKAIAN,Peci/Kopiah,pecikopiah_id.mp3,قَلَنْسُوَةٌ,pecikopiah_ar.mp3,Cap,pecikopiah_eng.mp3
+PAKAIAN,Topi,topi_id.mp3,قُبْعَةٌ,topi_ar.mp3,Hat,topi_eng.mp3
+PAKAIAN,Syal,syal_id.mp3,وِشَاحٌ,syal_ar.mp3,scarf,syal_eng.mp3
+PAKAIAN,Seragam,seragam_id.mp3,زِيٌّ,seragam_ar.mp3,uniform,seragam_eng.mp3
+PAKAIAN,Kaus Kaki,kauskaki_id.mp3,جَوْرَبٌ,kauskaki_ar.mp3,socks,kauskaki_eng.mp3
+BUAH-BUAHAN,Pisang,pisang_id.mp3,مَوْزٌ,pisang_ar.mp3,Banana,pisang_eng.mp3
+BUAH-BUAHAN,Alpukat,alpukat_id.mp3,أَفُوْكَادُوْ,alpukat_ar.mp3,Avocado,alpukat_eng.mp3
+BUAH-BUAHAN,Anggur,anggur_id.mp3,عِنَبٌ,anggur_ar.mp3,Grape,anggur_eng.mp3
+BUAH-BUAHAN,Apel,apel_id.mp3,تُفَّاحٌ,apel_ar.mp3,Apple,apel_eng.mp3
+BUAH-BUAHAN,Belimbing,belimbing_id.mp3,فَاكِهَةٌ نَجْمِيَّةٌ,belimbing_ar.mp3,Starfruit,belimbing_eng.mp3
+BUAH-BUAHAN,Blackberry,blackberry_id.mp3,عِلِّيْقٌ,blackberry_ar.mp3,Blackberry,blackberry_eng.mp3
+BUAH-BUAHAN,Ceri,ceri_id.mp3,كَرَزٌ,ceri_ar.mp3,Cherry,ceri_eng.mp3
+BUAH-BUAHAN,Delima,delima_id.mp3,اَلرُّمَّانُ,delima_ar.mp3,Pomegranate,delima_eng.mp3
+BUAH-BUAHAN,Durian,durian_id.mp3,أَبُوْ شَوْكٍ,durian_ar.mp3,Durian,durian_eng.mp3
+BUAH-BUAHAN,Jagung,jagung_id.mp3,ذُرَةٌ,jagung_ar.mp3,Corn,jagung_eng.mp3
+BUAH-BUAHAN,Jambu,jambu_id.mp3,الجَوَّافَةُ,jambu_ar.mp3,Guava,jambu_eng.mp3
+BUAH-BUAHAN,Jeruk Nipis,jeruknipis_id.mp3,لَيْمُوْنٌ,jeruknipis_ar.mp3,Lime,jeruknipis_eng.mp3
+BUAH-BUAHAN,Jeruk,jeruk_id.mp3,بُرْتُقَالٌ,jeruk_ar.mp3,Orange,jeruk_eng.mp3
+BUAH-BUAHAN,Kelapa,kelapa_id.mp3,جَوْزُ الْهِنْدِ,kelapa_ar.mp3,Coconut,kelapa_eng.mp3
+BUAH-BUAHAN,Kismis,kismis_id.mp3,زَبِيْبٌ,kismis_ar.mp3,Raisin,kismis_eng.mp3
+BUAH-BUAHAN,Kurma,kurma_id.mp3,تَمْرٌ,kurma_ar.mp3,Date,kurma_eng.mp3
+BUAH-BUAHAN,Mangga,mangga_id.mp3,مَانْجُوْ,mangga_ar.mp3,Mango,mangga_eng.mp3
+BUAH-BUAHAN,Manggis,manggis_id.mp3,مَانْغُوْسْتِيْنٌ,manggis_ar.mp3,Mangosteen,manggis_eng.mp3
+BUAH-BUAHAN,Melon,melon_id.mp3,شَمَّامٌ,melon_ar.mp3,Melon,melon_eng.mp3
+BUAH-BUAHAN,Nanas,nanas_id.mp3,أَنَانَاسٌ,nanas_ar.mp3,Pineapple,nanas_eng.mp3
+BUAH-BUAHAN,Nangka,nangka_id.mp3,خَوْخٌ,nangka_ar.mp3,Jackfruit,nangka_eng.mp3
+BUAH-BUAHAN,Pepaya,pepaya_id.mp3,بَابَايَا,pepaya_ar.mp3,Papaya,pepaya_eng.mp3
+BUAH-BUAHAN,Pir,pir_id.mp3,الكُمِثْرَى,pir_ar.mp3,Pear,pir_eng.mp3
+SAYURAN,Brokoli,brokoli-id.mp3,قَرَنْبِيْطٌ,brokoli-ar.mp3,Broccoli,brokoli-eng.mp3
+SAYURAN,Jagung,jagung-id.mp3,ذُرَةٌ,jagung-ar.mp3,Corn,jagung-eng.mp3
+SAYURAN,Kentang,kentang-id.mp3,بَطَاطِسُ,kentang-ar.mp3,Potato,kentang-eng.mp3
+SAYURAN,Bayam,bayam-id.mp3,سَبَانِخُ,bayam-ar.mp3,Spinach,bayam-eng.mp3
+SAYURAN,Kubis/kol,kubis-id.mp3,مَلْفُوفٌ,kubis-ar.mp3,Cabbage,kubis-eng.mp3
+SAYURAN,Buncis,buncis-id.mp3,فَاصُولْيَا خَضْرَاءُ,buncis-ar.mp3,Bean,buncis-eng.mp3
+SAYURAN,Daun Bawang,daunbawang-id.mp3,كُرَّاثٌ,daunbawang-ar.mp3,Leek,daunbawang-eng.mp3
+SAYURAN,Selada,selada-id.mp3,خَسٌّ,selada-ar.mp3,Lettuce,selada-eng.mp3
+SAYURAN,Timun,timun-id.mp3,خِيَارٌ,timun-ar.mp3,Cucumber,timun-eng.mp3
+SAYURAN,Terong,terong-id.mp3,بَاذِنْجَانٌ,terong-ar.mp3,Eggplant,terong-eng.mp3
+SAYURAN,Seledri,seledri-id.mp3,كَرَفْسٌ,seledri-ar.mp3,Celery,seledri-eng.mp3
+SAYURAN,Lobak,lobak-id.mp3,فِجْلٌ,lobak-ar.mp3,Radish,lobak-eng.mp3
+SAYURAN,Tauge,tauge-id.mp3,فَاصُولْيَا مُبْزَرَةٌ,tauge-ar.mp3,Bean sprout,tauge-eng.mp3
+SAYURAN,Tomat,tomat-id.mp3,طَمَاطِمٌ,tomat-ar.mp3,Tomato,tomat-eng.mp3
+SAYURAN,Wortel,wortel-id.mp3,جَزَرٌ,wortel-ar.mp3,Carrot,wortel-eng.mp3
+SAYURAN,Kacang Panjang,kacangpanjang-id.mp3,فَاصُولْيَا,kacangpanjang-ar.mp3,Long bean,kacangpanjang-eng.mp3
+SAYURAN,Labu,labu-id.mp3,يَقْطِينٌ,labu-ar.mp3,Pumpkin,labu-eng.mp3
+SAYURAN,Kacang Kedelai,kacangkedelai-id.mp3,فُولٌ صُوْيَا,kacangkedelai-ar.mp3,Soya bean,kacangkedelai-eng.mp3
+SAYURAN,Kacang Kedelai,kacangkedelai-id.mp3,موعربلا,kacangkedelai-ar.mp3,Soya bean,kacangkedelai-eng.mp3
+REMPAH-REMPAH,Rempah-rempah,rempahrempah_id.mp3,تَابِلٌ,rempahrempah_ar.mp3,Herbs / Spices,rempahrempah_eng.mp3
+REMPAH-REMPAH,Bawang Merah,bawangmerah_id.mp3,بَصَلَةٌ,bawangmerah_ar.mp3,Onion,bawangmerah_eng.mp3
+REMPAH-REMPAH,Bawang Putih,bawangputih_id.mp3,ثُوْمَةٌ,bawangputih_ar.mp3,Garlic,bawangputih_eng.mp3
+REMPAH-REMPAH,Jahe,jahe_id.mp3,زَنْجَبِيْلٌ,jahe_ar.mp3,Ginger,jahe_eng.mp3
+REMPAH-REMPAH,Jintan,jintan_id.mp3,كَمُّوْنٌ,jintan_ar.mp3,Caraway,jintan_eng.mp3
+REMPAH-REMPAH,Kayu Manis,kayumanis_id.mp3,قِرْفَةٌ,kayumanis_ar.mp3,Cinnamon,kayumanis_eng.mp3
+REMPAH-REMPAH,Ketumbar,ketumbar_id.mp3,كُزْبَرَةٌ,ketumbar_ar.mp3,Coriander,ketumbar_eng.mp3
+REMPAH-REMPAH,Kunyit,kunyit_id.mp3,كُرْكُمَةٌ,kunyit_ar.mp3,Turmeric,kunyit_eng.mp3
+REMPAH-REMPAH,Lada,lada_id.mp3,فُلْفُلَةٌ,lada_ar.mp3,Pepper,lada_eng.mp3
+REMPAH-REMPAH,Lengkuas,lengkuas_id.mp3,خُوْلَنْجَانٌ,lengkuas_ar.mp3,Galangal,lengkuas_eng.mp3
+FASILITAS UMUM,Tempat,tempat_id.mp3,مَكَانٌ,tempat_ar.mp3,Place,tempat_eng.mp3
+FASILITAS UMUM,Agen Travel,agentravel_id.mp3,وَكَالَةُ السَّفَرِ,agentravel_ar.mp3,Travel agent,agentravel_eng.mp3
+FASILITAS UMUM,Apartemen,apartemen_id.mp3,شَقَّةٌ,apartemen_ar.mp3,Apartment / Condominium,apartemen_eng.mp3
+FASILITAS UMUM,Apotik,apotik_id.mp3,صَيْدَلِيَّةٌ,apotik_ar.mp3,Drugstore,apotik_eng.mp3
+FASILITAS UMUM,Bandara,bandara_id.mp3,مَطَارٌ,bandara_ar.mp3,Airport,bandara_eng.mp3
+FASILITAS UMUM,Bank,bank_id.mp3,بَنْكٌ,bank_ar.mp3,Bank,bank_eng.mp3
+FASILITAS UMUM,Bioskop,bioskop_id.mp3,السِّيْنَمَا,bioskop_ar.mp3,Cinema,bioskop_eng.mp3
+FASILITAS UMUM,Cafe/warkop,cafewarkop_id.mp3,مَقْهَى,cafewarkop_ar.mp3,Café,cafewarkop_eng.mp3
+FASILITAS UMUM,Fakultas,fakultas_id.mp3,كُلِّيَةٌ,fakultas_ar.mp3,Faculty,fakultas_eng.mp3
+FASILITAS UMUM,Gudang,gudang_id.mp3,مَخْزَنٌ,gudang_ar.mp3,Warehouse,gudang_eng.mp3
+FASILITAS UMUM,Gelanggang Olah Raga,gelanggangolahragaَ_id.mp3,النَّادِي الرِّيَاضِيّ,gelanggangolahragaَ_r.mp3,Sport arena,gelanggangolahragaَ_eng.mp3
+FASILITAS UMUM,Halte Bis,haltebis_id.mp3,مَوْقِفُ الحَافِلَات,haltebis_ar.mp3,Bus stop / bus shelter,haltebis_eng.mp3
+FASILITAS UMUM,Halte Taksi,haltetaksi_id.mp3,مَوْقِف سَيَارَات الأَجْرَة,haltetaksi_ar.mp3,Taxi shelter,haltetaksi_eng.mp3
+FASILITAS UMUM,Hotel,hotel_id.mp3,فُنْدُقٌ,hotel_ar.mp3,Hotel,hotel_eng.mp3
+FASILITAS UMUM,Jalan Raya,jalanraya_id.mp3,شَارِعٌ,jalanraya_ar.mp3,Road,jalanraya_eng.mp3
+FASILITAS UMUM,Kantin,kantin_id.mp3,مَقْصَفٌ,kantin_ar.mp3,Canteen,kantin_eng.mp3
+FASILITAS UMUM,Kantor,kantor_id.mp3,مَكْتَبٌ,kantor_ar.mp3,Office,kantor_eng.mp3
+FASILITAS UMUM,Kantor Pos,kantorpos_id.mp3,مَكْتَبُ البَرِيْدِ,kantorpos_ar.mp3,Post office,kantorpos_eng.mp3
+FASILITAS UMUM,Kebun Binatang,kebunbinatang_id.mp3,حَدِيْقَةُ الحَيَوَانَات,kebunbinatang_ar.mp3,Zoo,kebunbinatang_eng.mp3
+FASILITAS UMUM,Pantai,pantai_id.mp3,شَاطِئُ البَحْرِ,pantai_ar.mp3,Beach,pantai_eng.mp3
+FASILITAS UMUM,Parkiran Mobil,parkiranmobil_id.mp3,مَوْقِفُ السَّيَارَات,parkiranmobil_ar.mp3,Car park / parking lot,parkiranmobil_eng.mp3
+FASILITAS UMUM,Kedutaan,kedutaan_id.mp3,سِفَارَةٌ,kedutaan_ar.mp3,Embassy,kedutaan_eng.mp3
+FASILITAS UMUM,Kolam Renang,kolamrenang_id.mp3,مَسْبَحٌ,kolamrenang_ar.mp3,Swimming pool,kolamrenang_eng.mp3
+FASILITAS UMUM,Lapangan,lapangan_id.mp3,مَلْعَبٌ,lapangan_ar.mp3,Field,lapangan_eng.mp3
+FASILITAS UMUM,Lift,lift_id.mp3,مِصْعَدٌ,lift_ar.mp3,Lift,lift_eng.mp3
+FASILITAS UMUM,Masjid,masjid_id.mp3,مَسْجِدٌ,masjid_ar.mp3,Mosque,masjid_eng.mp3
+FASILITAS UMUM,Museum,museum_id.mp3,مَتْحَفٌ,museum_ar.mp3,Museum,museum_eng.mp3
+FASILITAS UMUM,Pabrik,pabrik_id.mp3,مَصْنَعٌ,pabrik_ar.mp3,Factory,pabrik_eng.mp3
+FASILITAS UMUM,Pameran,pameran_id.mp3,مَعْرَضٌ,pameran_ar.mp3,Workshop,pameran_eng.mp3
+FASILITAS UMUM,Pasar,pasar_id.mp3,سُوْقٌ,pasar_ar.mp3,Market,pasar_eng.mp3
+ANGGOTA TUBUH,Kepala,kepala_id.mp3,رَأْسٌ,kepala_ar.mp3,Head,kepala_eng.mp3
+ANGGOTA TUBUH,Rambut,rambut_id.mp3,شَعْرٌ,rambut_ar.mp3,Hair,rambut_eng.mp3
+ANGGOTA TUBUH,Dahi,dahi_id.mp3,جَبْهَةٌ,dahi_ar.mp3,Forehead,dahi_eng.mp3
+ANGGOTA TUBUH,Hidung,hidung_id.mp3,أَنْفٌ,hidung_ar.mp3,Nose,hidung_eng.mp3
+ANGGOTA TUBUH,Alis,alis_id.mp3,حَاجِبٌ,alis_ar.mp3,Eyebrow,alis_eng.mp3
+ANGGOTA TUBUH,Telinga,telinga_id.mp3,أُذُنٌ,telinga_ar.mp3,Ear,telinga_eng.mp3
+ANGGOTA TUBUH,Mata,mata_id.mp3,عَيْنٌ,mata_ar.mp3,Eye,mata_eng.mp3
+ANGGOTA TUBUH,Kumis,kumis_id.mp3,شَارِبٌ,kumis_ar.mp3,Moustache,kumis_eng.mp3
+ANGGOTA TUBUH,Mulut,mulut_id.mp3,فَمٌ,mulut_ar.mp3,Mouth,mulut_eng.mp3
+ANGGOTA TUBUH,Bibir,bibir_id.mp3,شَفَةٌ,bibir_ar.mp3,Lip,bibir_eng.mp3
+ANGGOTA TUBUH,Lidah,lidah_id.mp3,لِسَانٌ,lidah_ar.mp3,Tongue,lidah_eng.mp3
+ANGGOTA TUBUH,Gigi,gigi_id.mp3,سِنٌّ,gigi_ar.mp3,Tooth,gigi_eng.mp3
+ANGGOTA TUBUH,Pipi,pipi_id.mp3,خَدٌّ,pipi_ar.mp3,Cheek,pipi_eng.mp3
+ANGGOTA TUBUH,Leher,leher_id.mp3,رَقَبَةٌ,leher_ar.mp3,Neck,leher_eng.mp3
+ANGGOTA TUBUH,Dagu,dagu_id.mp3,ذَقَنٌ,dagu_ar.mp3,Chin,dagu_eng.mp3
+ANGGOTA TUBUH,Bahu,bahu_id.mp3,كَتِفٌ,bahu_ar.mp3,Shoulder,bahu_eng.mp3
+ANGGOTA TUBUH,Tangan,tangan_id.mp3,يَدٌ,tangan_ar.mp3,Hand,tangan_eng.mp3
+ANGGOTA TUBUH,Jari,jjari_id.mp3,أُصْبُعٌ,jari_ar.mp3,Finger,jari_eng.mp3
+ANGGOTA TUBUH,Ibu Jari,ibu_jari_id.mp3,إِبْهَامٌ,ibu_jari_ar.mp3,Thumb,ibu_jari_eng.mp3
+ANGGOTA TUBUH,Jari Telunjuk,jari_telunjuk_id.mp3,سَبَّابَةٌ,jari_telunjuk_ar.mp3,Pointer,jari_telunjuk_eng.mp3
+ANGGOTA TUBUH,Jari Tengah,jari_tengah_id.mp3,الوُسْطَى,jari_tengah_ar.mp3,Middle finger,jari_tengah_eng.mp3
+ANGGOTA TUBUH,Jari Manis,jari_manis_id.mp3,بِنْصِرٌ,jari_manis_ar.mp3,Ring finger,jari_manis_eng.mp3
+ANGGOTA TUBUH,Jari Kelingking,jari_kelingking_id.mp3,خِنْصِرٌ,jari_kelingking_ar.mp3,Little finger,jari_kelingking_eng.mp3
+ANGGOTA TUBUH,Dada,dada_id.mp3,صَدْرٌ,dada_ar.mp3,Chest,dada_eng.mp3
+ANGGOTA TUBUH,Punggung,punggung_id.mp3,ظَهْرٌ,punggung_ar.mp3,Back,punggung_eng.mp3
+ANGGOTA TUBUH,Perut,perut_id.mp3,بَطْنٌ,perut_ar.mp3,Stomach,perut_eng.mp3
+ANGGOTA TUBUH,Pinggang,pinggang_id.mp3,خَصْرٌ,pinggang_ar.mp3,Waist,pinggang_eng.mp3
+ANGGOTA TUBUH,Pantat,pantat_id.mp3,دُبُرٌ,pantat_ar.mp3,Buttock,pantat_eng.mp3
+ANGGOTA TUBUH,Paha,paha_id.mp3,فَخِذٌ,paha_ar.mp3,Thigh,paha_eng.mp3
+ANGGOTA TUBUH,Lutut,lutut_id.mp3,رُكْبَةٌ,lutut_ar.mp3,Knee,lutut_eng.mp3
+ANGGOTA TUBUH,Kaki,kaki_id.mp3,رِجْلٌ,kaki_ar.mp3,Foot,kaki_eng.mp3
+ANGGOTA TUBUH,Jari Kaki,jari_kaki_id.mp3,أَصْبَعُالرِّجْلِ,jari_kaki_ar.mp3,Toes,jari_kaki_eng.mp3
+ANGGOTA TUBUH,Daging,daging_id.mp3,لَحْمٌ,daging_ar.mp3,Flesh,daging_eng.mp3
+ANGGOTA TUBUH,Darah,darah_id.mp3,دَمٌ,darah_ar.mp3,Blood,darah_eng.mp3
+ANGGOTA TUBUH,Ginjal,ginjal_id.mp3,كُلْيَةٌ,ginjal_ar.mp3,Kidney,ginjal_eng.mp3
+ANGGOTA TUBUH,Hati,hati_id.mp3,كَبِدٌ,hati_ar.mp3,Liver,hati_eng.mp3
+ANGGOTA TUBUH,Jantung,jantung_id.mp3,قَلْبٌ,jantung_ar.mp3,Heart,jantung_eng.mp3
+ANGGOTA TUBUH,Lambung,lambung_id.mp3,مَعِدَةٌ,lambung_ar.mp3,Stomach,lambung_eng.mp3
+ANGGOTA TUBUH,Lemak,lemak_id.mp3,شَحْمٌ,lemak_ar.mp3,Fat,lemak_eng.mp3
+ANGGOTA TUBUH,Otak,otak_id.mp3,مُخٌّ,otak_ar.mp3,Brain,otak_eng.mp3
+ANGGOTA TUBUH,Paru-paru,paru_paru_id.mp3,رِئَةٌ,paru_paru_ar.mp3,Lung,paru_paru_eng.mp3
+ANGGOTA TUBUH,Sendi,sendi_id.mp3,مِفْصَلٌ,sendi_ar.mp3,Joint,sendi_eng.mp3
+ANGGOTA TUBUH,Tulang,tulang_id.mp3,عَظْمٌ,tulang_ar.mp3,Bone,tulang_eng.mp3
+ANGGOTA TUBUH,Urat,urat_id.mp3,عِرْقٌ,urat_ar.mp3,Tendon,urat_eng.mp3
+ANGGOTA TUBUH,Usus,usus_id.mp3,مَعْيٌ,usus_ar.mp3,Intestine,usus_eng.mp3
+ANGGOTA KELUARGA,Keluarga,keluarga_id.mp3,الْعَائِلَة,keluarga_ar.mp3,Family,keluarga_eng.mp3
+ANGGOTA KELUARGA,Sanak keluarga / kerabat,sanak_keluarga_id.mp3,الْقَرَابَة,sanak_keluarga_ar.mp3,Relatives,sanak_keluarga_eng.mp3
+ANGGOTA KELUARGA,Kakek,kakek_id.mp3,الْجَدّ,kakek_ar.mp3,Grandfather,kakek_eng.mp3
+ANGGOTA KELUARGA,Nenek,nenek_id.mp3,الْجَدَّة,nenek_ar.mp3,Grandmother,nenek_eng.mp3
+ANGGOTA KELUARGA,Kedua orang tua,kedua_orang_tua_id.mp3,الْوَالِدَان/ الْأَبَوَيْن,kedua_orang_tua_ar.mp3,Parents,kedua_orang_tua_eng.mp3
+ANGGOTA KELUARGA,Ayah,ayah_id.mp3,الْأَب/ الْوَالِد,ayah_ar.mp3,Father,ayah_eng.mp3
+ANGGOTA KELUARGA,Ayahku,ayahku_id.mp3,أَبِي,ayahku_ar.mp3,My father,ayahku_eng.mp3
+ANGGOTA KELUARGA,Ayah tiri,ayah_tiri_id.mp3,زَوْج الْأُمّ,ayah_tiri_ar.mp3,Stepdad,ayah_tiri_eng.mp3
+ANGGOTA KELUARGA,Ayah tiri,ayah_tiri2_id.mp3,رَابٍ,ayah_tiri2_ar.mp3,Stepfather,ayah_tiri2_eng.mp3
+ANGGOTA KELUARGA,Papa / papi,papa_id.mp3,بَابَا,papa_ar.mp3,Daddy,papa_eng.mp3
+ANGGOTA KELUARGA,Ibu,ibu_id.mp3,الْأُمّ,ibu_ar.mp3,Mother,ibu_eng.mp3
+ANGGOTA KELUARGA,Ibu,ibu2_id.mp3,الْوَالِدَة,ibu2_ar.mp3,Mommy,ibu2_eng.mp3
+ANGGOTA KELUARGA,Ibu tiri,ibu_tiri_id.mp3,زَوْجَة الْأَب,ibu_tiri_ar.mp3,Stepmother,ibu_tiri_eng.mp3
+ANGGOTA KELUARGA,Ibu tiri,ibu_tiri2_id.mp3,رَابَة,ibu_tiri2_ar.mp3,Stepmommy,ibu_tiri2_eng.mp3
+ANGGOTA KELUARGA,Sifat keibuan,sifat_keibuan_id.mp3,أُمُومَة,sifat_keibuan_ar.mp3,Motherly,sifat_keibuan_eng.mp3
+ANGGOTA KELUARGA,Ibu susuan / yang menyusui,ibu_susuan_id.mp3,مُرْضِع,ibu_susuan_ar.mp3,Nursing mother,ibu_susuan_eng.mp3
+ANGGOTA KELUARGA,Ibu rumah tangga,ibu_rumah_tangga_id.mp3,رَبَّة الْبَيْت,ibu_rumah_tangga_ar.mp3,Housewife,ibu_rumah_tangga_eng.mp3
+ANGGOTA KELUARGA,Ibu negara,ibu_negara_id.mp3,السَّيِّدَة الْأُوْلَى,ibu_negara_ar.mp3,First lady,ibu_negara_eng.mp3
+ANGGOTA KELUARGA,Anak laki-laki,Anak_laki_id.mp3,اَلْإِبْنُ / الْوَلَد,Anak_laki_ar.mp3,Son,Anak_laki_eng.mp3
+ANGGOTA KELUARGA,Anak perempuan,Anak_perempuan_id.mp3,الْبِنْتُ / الْوَلَدَة,Anak_perempuan_ar.mp3,Daughter,Anak_perempuan_eng.mp3
+ANGGOTA KELUARGA,Anak angkat,anak_angkat_id.mp3,الْوَلَد الْمُتَبَنَّى / الْإِبْن الْمُتَبَنَّى,anak_angkat_ar.mp3,Foster child,anak_angkat_eng.mp3
+ANGGOTA KELUARGA,Anak tiri laki-laki,anak_tiri_laki_id.mp3,الرَّبِيْب,anak_tiri_laki_ar.mp3,Foster son,anak_tiri_laki_eng.mp3
+ANGGOTA KELUARGA,Anak tiri laki-laki,anak_tiri_laki2_id.mp3,إِبْن الزَّوْج، إِبْن الزَّوْجَة,anak_tiri_laki2_ar.mp3,Foster son,anak_tiri_laki2_eng.mp3
+ANGGOTA KELUARGA,Anak tiri perempuan,tiri_perempuan_id.mp3,الرَّبِيْبَة,anak_tiri_perempuan_ar.mp3,Foster daughter,anak_tiri_perempuan_eng.mp3
+ANGGOTA KELUARGA,Anak sulung,anak_sulung_id.mp3,الْوَلَد الْأَكْبَر,anak_sulung_ar.mp3,Firstborn child,anak_sulung_eng.mp3
+ANGGOTA KELUARGA,Anak bungsu,anak_bungsu_id.mp3,الْوَلَد الْأَصْغَر,anak_bungsu_ar.mp3,Youngest child,anak_bungsu_eng.mp3
+ANGGOTA KELUARGA,Anak kecil,anak_kecil_id.mp3,الطِّفْل,anak_kecil_ar.mp3,Child,anak_kecil_eng.mp3
+ANGGOTA KELUARGA,Anak kecil / bayi,anak_bayi_id.mp3,الطِّفْل,anak_bayi_ar.mp3,Baby,anak_bayi_eng.mp3
+ANGGOTA KELUARGA,Anak baru lahir,anak_baru_lahir_id.mp3,وَلِيْد,anak_baru_lahir_ar.mp3,Newborn baby,anak_baru_lahir_eng.mp3
+ANGGOTA KELUARGA,Wahai anak kecilku,wahai_anak_id.mp3,بُنَيَّ / بَنِي,wahai_anak_ar.mp3,Oh my child,wahai_anak_eng.mp3
+ANGGOTA KELUARGA,Masa bayi / balita,masa_bayi_id.mp3,طُفُوْلَة,masa_bayi_ar.mp3,Toddler,masa_bayi_eng.mp3
+ANGGOTA KELUARGA,Kanak - kanak / dibawah umur,kanak_kanak_id.mp3,قَاصِر,kanak_kanak_ar.mp3,Children,kanak_kanak_eng.mp3
+ANGGOTA KELUARGA,Pemuda,pemuda_id.mp3,شَاب,pemuda_ar.mp3,Youth,pemuda_eng.mp3
+ANGGOTA KELUARGA,Kekanakan,kekanakan_id.mp3,بُنُوَّة,kekanakan_ar.mp3,Childish,kekanakan_eng.mp3
+ANGGOTA KELUARGA,Anak muda (lk)/(pr),anak_muda_id.mp3,صَبِيّ / صَبِيَّة,anak_muda_ar.mp3,Young man / young lady,anak_muda_eng.mp3
+ANGGOTA KELUARGA,Bayi dalam perut,bayi_dalam_perut_id.mp3,الْجَنِيْن,bayi_dalam_perut_ar.mp3,Infant / fetus,bayi_dalam_perut_eng.mp3
+ANGGOTA KELUARGA,Anak cucu / keturunan,anak_cucu_id.mp3,سَلِيْل,anak_cucu_ar.mp3,Grandchildren,anak_cucu_eng.mp3
+ANGGOTA KELUARGA,Anak yatim,anak_yatim_id.mp3,الْيَتِيم,anak_yatim_ar.mp3,Orphan,anak_yatim_eng.mp3
+ANGGOTA KELUARGA,Anak kampung,anak_kampung_id.mp3,إِبْن الْحَرَام/ الْغَفَل,anak_kampung_ar.mp3,Village kid,anak_kampung_eng.mp3
+ANGGOTA KELUARGA,Anak pungut,anak_pungut_id.mp3,طِفْل لَقِيْط,anak_pungut_ar.mp3,Adopted child,anak_pungut_eng.mp3
+ANGGOTA KELUARGA,Anak remaja,anak_remaja_id.mp3,مُرَاهِق,anak_remaja_ar.mp3,Teenage,anak_remaja_eng.mp3
+ANGGOTA KELUARGA,Nona/anak perempuan,nona_id.mp3,آنِسَة,nona_ar.mp3,Girl,nona_eng.mp3
+ANGGOTA KELUARGA,Cucu dari anak perempuan,cucu_perempuan_id.mp3,السِّبْط,cucu_perempuan_ar.mp3,Grandchild,cucu_perempuan_eng.mp3
+ANGGOTA KELUARGA,Cucu dari anak laki-laki,cucu_laki_id.mp3,الْحَفِيْد,cucu_laki_ar.mp3,Grandchild,cucu_laki_eng.mp3
+ANGGOTA KELUARGA,Anak cucu(turunan),anak_cucu_turunan_id.mp3,الذُّرِّيَّة/ النَّسْل,anak_cucu_turunan_ar.mp3,Grandchildren,anak_cucu_turunan_eng.mp3
+ANGGOTA KELUARGA,Saudara laki-laki,saudara_laki_id.mp3,الْأَخ,saudara_laki_ar.mp3,Brother,saudara_laki_eng.mp3
+ANGGOTA KELUARGA,Saudara perempuan,saudara_perempuan_id.mp3,الْأُخْت,saudara_perempuan_ar.mp3,Sister,saudara_perempuan_eng.mp3
+ANGGOTA KELUARGA,Abang,abang_id.mp3,الْأَخُ الْكَبِيْر,abang_ar.mp3,Elder brother,abang_eng.mp3
+ANGGOTA KELUARGA,Adik laki-laki,adik_laki_id.mp3,الْأَخُ الصَّغِيْر,adik_laki_ar.mp3,Little brother,adik_laki_eng.mp3
+ANGGOTA KELUARGA,Kakak perempuan,kakak_perempuan_id.mp3,الْأُخْتُ الْكَبِيْرَة,kakak_perempuan_ar.mp3,Elder sister,kakak_perempuan_eng.mp3
+ANGGOTA KELUARGA,Adik perempuan,adik_perempuan_id.mp3,الْأُخْتُ الصَّغِيْرَة,adik_perempuan_ar.mp3,Little sister,adik_perempuan_eng.mp3
+ANGGOTA KELUARGA,Paman (saudara ayah),paman_id.mp3,الْعَمّ,paman_ar.mp3,Uncle,paman_eng.mp3
+ANGGOTA KELUARGA,Bibi (saudara ayah),bibi_id.mp3,الْعَمَّة,bibi_ar.mp3,Aunty,bibi_eng.mp3
+ANGGOTA KELUARGA,Keponakan laki-laki,keponakan_laki_id.mp3,إِبْنُ الْأَخ,keponakan_laki_ar.mp3,Nephew,keponakan_laki_eng.mp3
+ANGGOTA KELUARGA,Keponakan perempuan,keponakan_perempuan_id.mp3,بِنْتُ الْأَخ,keponakan_perempuan_ar.mp3,Niece,keponakan_perempuan_eng.mp3
+ANGGOTA KELUARGA,Sepupu,sepupu_id.mp3,إِبْنُ الْعَمّ,sepupu_ar.mp3,Cousin,sepupu_eng.mp3
+ANGGOTA KELUARGA,Suami,suami_id.mp3,الزَّوْج,suami_ar.mp3,Husband,suami_eng.mp3
+ANGGOTA KELUARGA,Istri,istri_id.mp3,الزَّوْجَة,istri_ar.mp3,Wife,istri_eng.mp3
+ANGGOTA KELUARGA,Laki-laki,laki_id.mp3,الرَّجُل,laki_ar.mp3,Male,laki_eng.mp3
+ANGGOTA KELUARGA,Perempuan,perempuan_id.mp3,الْمَرْأَة,perempuan_ar.mp3,Female,perempuan_eng.mp3
+ANGGOTA KELUARGA,Bujang,bujang_id.mp3,الْعَزْب/الْأَعْزَب / الْعَازِب,bujang_ar.mp3,Bachelor,bujang_eng.mp3
+ANGGOTA KELUARGA,Pemuda,pemuda2_id.mp3,الْفَتَى/ الشَّاب,pemuda2_ar.mp3,Young man,pemuda2_eng.mp3
+ANGGOTA KELUARGA,Pemudi,pemudi_id.mp3,الْفَتَاة/ الشَّابَة,pemudi_ar.mp3,Young lady,pemudi_eng.mp3
+ANGGOTA KELUARGA,Gadis,gadis_id.mp3,الْعَذْرَاء,gadis_ar.mp3,Girl,gadis_eng.mp3
+ANGGOTA KELUARGA,Orang tua,orang_tua_id.mp3,الشَّيْخ,orang_tua_ar.mp3,Parents,orang_tua_eng.mp3
+ANGGOTA KELUARGA,Lansia,lansia_id.mp3,عَجُوْز,lansia_ar.mp3,Elderly,lansia_eng.mp3
+ANGGOTA KELUARGA,Dua kembar,dua_kembar_id.mp3,التَّوْأَمَان/ التَّوْأُم,dua_kembar_ar.mp3,Twins,dua_kembar_eng.mp3
+ANGGOTA KELUARGA,Kepala keluarga,kepala_keluarga_id.mp3,رَئِيْس الْعَائِلَة,kepala_keluarga_ar.mp3,The head of the family,kepala_keluarga_eng.mp3
+ANGGOTA KELUARGA,Ipar (laki-laki) (perempuan),ipar_id.mp3,الصِّهْر/ الصِّهْرَة,ipar_ar.mp3,Brother in law / sister in law,ipar_eng.mp3
+ANGGOTA KELUARGA,Mertua (laki-laki) (perempuan),mertua_id.mp3,الْحَم/ الْحَمَاة,mertua_ar.mp3,Father in law / mother in law,mertua_eng.mp3
+ANGGOTA KELUARGA,Menantu (laki-laki) (perempuan),menantu_id.mp3,الْخَتَن/ الْكَنَّة,menantu_ar.mp3,Son in law / daughter in law,menantu_eng.mp3
+ALAT TRANSPORTASI,Mobil,mobil_id.mp3,سَيَّارَةٌ,mobil_ar.mp3,Car,mobil_eng.mp3
+ALAT TRANSPORTASI,Bus,bus_id.mp3,حَافِلَةٌ أُوتُوبِيسٌ,bus_ar.mp3,Bus,bus_eng.mp3
+ALAT TRANSPORTASI,Truk,truk_id.mp3,سَيَّارَةُ النَّقْلِ / شَاحِنَةٌ,truk_ar.mp3,Truck,truk_eng.mp3
+ALAT TRANSPORTASI,Taksi,taksi_id.mp3,تَكْسِىٌ,taksi_ar.mp3,Taxi / Cab,taksi_eng.mp3
+ALAT TRANSPORTASI,Sepeda,sepeda_id.mp3,دَرَّاجَةٌ,sepeda_ar.mp3,Bicycle / Bike,sepeda_eng.mp3
+ALAT TRANSPORTASI,Sepeda motor,sepeda_motor_id.mp3,جَوَّالَةٌ,sepeda_motor_ar.mp3,Motorcycle,sepeda_motor_eng.mp3
+ALAT TRANSPORTASI,Kereta api,kereta_api_id.mp3,قِطَارٌ,kereta_api_ar.mp3,Train,kereta_api_eng.mp3
+ALAT TRANSPORTASI,Becak,becak_id.mp3,بِتْشَاءٌ,becak_ar.mp3,Pedicab,becak_eng.mp3
+ALAT TRANSPORTASI,Ambulans,ambulans_id.mp3,سَيَّارَةُ الْإِسْعَافِ,ambulans_ar.mp3,Ambulance,ambulans_eng.mp3
+ALAT TRANSPORTASI,Tank,tank_id.mp3,دَبَّابَةٌ,tank_ar.mp3,Tank,tank_eng.mp3
+ALAT TRANSPORTASI,Dokar/ Gerobak,dokar_id.mp3,عَرَبَةٌ,dokar_ar.mp3,Cart,dokar_eng.mp3
+ALAT TRANSPORTASI,Mobil tangki,mobil_tangki_id.mp3,سَيَّارَةُ الصِّهْرِيجِ,mobil_tangki_ar.mp3,Tanker,mobil_tangki_eng.mp3
+ALAT TRANSPORTASI,Delman,delman_id.mp3,دَلْمَانٌ,delman_ar.mp3,Horse cart,delman_eng.mp3
+ALAT TRANSPORTASI,Kapal Laut,kapal_laut_id.mp3,بَاخِرَةٌ,kapal_laut_ar.mp3,Ship,kapal_laut_eng.mp3
+ALAT TRANSPORTASI,Perahu,perahu_id.mp3,سَفِينَةٌ,perahu_ar.mp3,Boat,perahu_eng.mp3
+ALAT TRANSPORTASI,Kapal Selam,kapal_selam_id.mp3,غَوَّاصَةٌ,kapal_selam_ar.mp3,Submarine,kapal_selam_eng.mp3
+ALAT TRANSPORTASI,Perahu Layar,perahu_layar_id.mp3,سَفِينَةٌ شِرَاعِيَّةٌ,perahu_layar_ar.mp3,Sailboat,perahu_layar_eng.mp3
+ALAT TRANSPORTASI,Rakit/ Tongkang,rakit_id.mp3,طَوْفٌ / رُوْمَسٌ,rakit_ar.mp3,Raft,rakit_eng.mp3
+ALAT TRANSPORTASI,Pesawat terbang,pesawat_terbang_id.mp3,طَائِرَةٌ,pesawat_terbang_ar.mp3,Airplane,pesawat_terbang_eng.mp3
+ALAT TRANSPORTASI,Helikopter,helikopter_id.mp3,هِيلِكُوبْتَر,helikopter_ar.mp3,Helicopter / chopper,helikopter_eng.mp3
+ALAT TRANSPORTASI,Balon udara,balon_udara_id.mp3,بَالُوْنٌ مُنْطَادٌ,balon_udara_ar.mp3,Air balloon,balon_udara_eng.mp3
+ALAT TRANSPORTASI,Pesawat tempur,pesawat_tempur_id.mp3,طَائِرَةٌ حَرْبِيَّةٌ,pesawat_tempur_ar.mp3,Fighter jet,pesawat_tempur_eng.mp3
+ALAT TRANSPORTASI,Airport/ Bandara,airport_id.mp3,مَطَارٌ,airport_ar.mp3,Airport,airport_eng.mp3
+ALAT TRANSPORTASI,Pelabuhan,pelabuhan_id.mp3,مِينَاءٌ / مَرْسَى / مَرْفَأٌ,pelabuhan_ar.mp3,Harbor,pelabuhan_eng.mp3
+ALAT TRANSPORTASI,Stasiun,stasiun_id.mp3,مَحَطَّةٌ,stasiun_ar.mp3,Railway station,stasiun_eng.mp3
+ALAT TRANSPORTASI,Terminal Bus,terminal_bus_id.mp3,مَحَطَّةُ الْحَافِلَاتِ,terminal_bus_ar.mp3,Bus station,terminal_bus_eng.mp3
+ALAT TRANSPORTASI,Garasi,garasi_id.mp3,كَرَاجٌ,garasi_ar.mp3,Garage,garasi_eng.mp3
+ALAT TRANSPORTASI,Jalan Raya,jalan_raya_id.mp3,شَارِعٌ,jalan_raya_ar.mp3,Highway,jalan_raya_eng.mp3
+ALAT TRANSPORTASI,Parkiran Mobil,parkiran_mobil_id.mp3,مَوْقِفُ السَّيَّارَاتِ,parkiran_mobil_ar.mp3,Parking lot / Car park,parkiran_mobil_eng.mp3
+ALAT TRANSPORTASI,Rel,rel_id.mp3,سِكَّةٌ حَدِيدِيَّةٌ,rel_ar.mp3,Railway,rel_eng.mp3
+KAMAR TIDUR,Kamar Tidur,kamar_tidur_id.mp3,غُرْفَةُنَوْمِ,kamar_tidur_ar.mp3,Bedroom,kamar_tidur_eng.mp3
+KAMAR TIDUR,Kasur,kasur_id.mp3,سَرِيْرٌ,kasur_ar.mp3,Bed,kasur_eng.mp3
+KAMAR TIDUR,Lampu Meja,lampu_meja_id.mp3,مِصْبَاحُ طَاوُلَة,lampu_meja_ar.mp3,Table Lamp,lampu_meja_eng.mp3
+KAMAR TIDUR,Lemari,lemari_id.mp3,خِزَانَةٌ,lemari_ar.mp3,Wardrobe,lemari_eng.mp3
+KAMAR TIDUR,Jam Weker,jam_weker_id.mp3,سَاعَةُمُنَبِّهَة,jam_weker_ar.mp3,Alarm Clock,jam_weker_eng.mp3
+KAMAR TIDUR,Selimut,selimut_id.mp3,بِطَانِيَةٌ,selimut_ar.mp3,Blanket,selimut_eng.mp3
+KAMAR TIDUR,Bantal,bantal_id.mp3,وِسَادَةٌ,bantal_ar.mp3,Pillow,bantal_eng.mp3
+KAMAR TIDUR,Cermin,cermin_id.mp3,مِرْآةٌ,cermin_ar.mp3,Mirror,cermin_eng.mp3
+KAMAR TIDUR,Rak Buku,rak_buku_id.mp3,رَفُّ لِلْكُتُب,rak_buku_ar.mp3,Bookshelf,rak_buku_eng.mp3
+KAMAR TIDUR,Pakaian,pakaian_id.mp3,مَلاَبِسٌ,pakaian_ar.mp3,Clothes,pakaian_eng.mp3
+KAMAR TIDUR,AC,ac_id.mp3,تَكْيِيْفٌ,ac_ar.mp3,Air Conditioner,ac_eng.mp3
+KAMAR TIDUR,Kipas Angin,kipas_angin_id.mp3,مِرْوَحَةٌ,kipas_angin_ar.mp3,Fan,kipas_angin_eng.mp3
+KAMAR MANDI,Bak Mandi,bak_mandi_id.mp3,حَوْضٌ,bak_mandi_ar.mp3,Bathtub,bak_mandi_eng.mp3
+KAMAR MANDI,Pancuran,pancuran_id.mp3,دُشٌّ,pancuran_ar.mp3,Shower,pancuran_eng.mp3
+KAMAR MANDI,Kloset,kloset_id.mp3,مِرْحَاضٌ,kloset_ar.mp3,Toilet,kloset_eng.mp3
+KAMAR MANDI,Cermin,cermin_id.mp3,مِرْآةٌ,cermin_ar.mp3,Mirror,cermin_eng.mp3
+KAMAR MANDI,Wastafel,wastafel_id.mp3,مِغْسَلَةٌ,wastafel_ar.mp3,Sink,wastafel_eng.mp3
+KAMAR MANDI,Sikat WC,sikat_wc_id.mp3,فُرْشَةُمِرْحَاضٌ,sikat_wc_ar.mp3,Toilet Brush,sikat_wc_eng.mp3
+KAMAR MANDI,Handuk,handuk_id.mp3,مِنْشَفَةٌ,handuk_ar.mp3,Towel,handuk_eng.mp3
+KAMAR MANDI,Sabun,sabun_id.mp3,صَابُونٌ,sabun_ar.mp3,Soap,sabun_eng.mp3
+KAMAR MANDI,Shampo,shampo_id.mp3,شَامْبُو,shampo_ar.mp3,Shampoo,shampo_eng.mp3
+KAMAR MANDI,Sikat Gigi,sikat_gigi_id.mp3,فُرْشَةُ أَسْنَانٍ,sikat_gigi_ar.mp3,Toothbrush,sikat_gigi_eng.mp3
+KAMAR MANDI,Pasta Gigi,pasta_gigi_id.mp3,مَعْجُونُ أَسْنَانٍ,pasta_gigi_ar.mp3,Toothpaste,pasta_gigi_eng.mp3
+KAMAR MANDI,Sisir,sisir_id.mp3,مِشْط,sisir_ar.mp3,Comb,sisir_eng.mp3
+KAMAR MANDI,Keran,keran_id.mp3,حَنَفِيَّةٌ,keran_ar.mp3,Faucet,keran_eng.mp3
+KAMAR MANDI,Sabun Cuci Tangan,sabun_cuci_tangan_id.mp3,صَابُون لِلْيَدِ,sabun_cuci_tangan_ar.mp3,Hand Soap,sabun_cuci_tangan_eng.mp3
+KAMAR MANDI,Gantungan Pakaian,gantungan_pakaian_id.mp3,الشَّمَّاعَاتُ,gantungan_pakaian_ar.mp3,Hanger,gantungan_pakaian_eng.mp3
+KAMAR MANDI,Pewangi Ruangan,pewangi_ruangan_id.mp3,مُعَطِّرجَو,pewangi_ruangan_ar.mp3,Air Freshener,pewangi_ruangan_eng.mp3
+KAMAR MANDI,Ember,ember_id.mp3,دَلْوٌ,ember_ar.mp3,Bucket,ember_eng.mp3
+DAPUR,Kompor,kompor_id.mp3,مَوْقِدٌ,kompor_ar.mp3,Stove,kompor_eng.mp3
+DAPUR,Kulkas,kulkas_id.mp3,ثَلَّاجَةٌ,kulkas_ar.mp3,Refrigerator,kulkas_eng.mp3
+DAPUR,Piring,piring_id.mp3,صَحْنٌ,piring_ar.mp3,Plate,piring_eng.mp3
+DAPUR,Gelas,gelas_id.mp3,كُوْبٌ,gelas_ar.mp3,Glass,gelas_eng.mp3
+DAPUR,Sendok,sendok_id.mp3,مِلْعَقَةٌ,sendok_ar.mp3,Spoon,sendok_eng.mp3
+DAPUR,Garpu,garpu_id.mp3,شَوْكَةٌ,garpu_ar.mp3,Fork,garpu_eng.mp3
+DAPUR,Pisau,pisau_id.mp3,سِكِّيْنٌ,pisau_ar.mp3,Knife,pisau_eng.mp3
+DAPUR,Wajan,wajan_id.mp3,مِقلاَة,wajan_ar.mp3,Frying Pan,wajan_eng.mp3
+DAPUR,Spatula,spatula_id.mp3,مِلْعَقَةمُسْطَحَة,spatula_ar.mp3,Spatula,spatula_eng.mp3
+DAPUR,Panci,panci_id.mp3,قِدْرٌ,panci_ar.mp3,Cooking Pot,panci_eng.mp3
+DAPUR,Tutup Panci,tutup_panci_id.mp3,غِطَاءُ الْقِدْرِ,tutup_panci_ar.mp3,Pot Lid,tutup_panci_eng.mp3
+DAPUR,Teko,teko_id.mp3,إِبْرِيْقٌ,teko_ar.mp3,Teapot,teko_eng.mp3
+DAPUR,Microwave,microwave_id.mp3,مِيْكْرُوْوِيْف,microwave_ar.mp3,Microwave,microwave_eng.mp3
+DAPUR,Oven,oven_id.mp3,فُرْنٌ,oven_ar.mp3,Oven,oven_eng.mp3
+DAPUR,Blender,blender_id.mp3,خَلَّاطٌ,blender_ar.mp3,Blender,blender_eng.mp3
+DAPUR,Lemari Dapur,lemari_dapur_id.mp3,خِزَانَةمَطْبَخٌ,lemari_dapur_ar.mp3,Kitchen Cabinet,lemari_dapur_eng.mp3
+DAPUR,Tempat Sampah,tempat_sampah_id.mp3,سَلَّةُ الزُّبَالَةِ,tempat_sampah_ar.mp3,Trash,tempat_sampah_eng.mp3
+RUANG KELUARGA,Sofa,sofa_id.mp3,أَرِيكَة,sofa_ar.mp3,Sofa,sofa_eng.mp3
+RUANG KELUARGA,Televisi,televisi_id.mp3,تِلِفِزْيُون,televisi_ar.mp3,Television,televisi_eng.mp3
+RUANG KELUARGA,Lemari TV,lemari_tv_id.mp3,خِزَانَةُ تِلِفِزْيُون,lemari_tv_ar.mp3,TV Cabinet,lemari_tv_eng.mp3
+RUANG KELUARGA,Kursi,kursi_id.mp3,كُرْسِيّ,kursi_ar.mp3,Chair,kursi_eng.mp3
+RUANG KELUARGA,Vas Bunga,vas_bunga_id.mp3,إِنَاءُ زَهْر,vas_bunga_ar.mp3,Vase,vas_bunga_eng.mp3
+RUANG KELUARGA,Jam Dinding,jam_dinding_id.mp3,سَاعَةُ حَائِط,jam_dinding_ar.mp3,Clock,jam_dinding_eng.mp3
+RUANG KELUARGA,Karpet,karpet_id.mp3,سَجَّادَة,karpet_ar.mp3,Carpet,karpet_eng.mp3
+RUANG KELUARGA,Bingkai Foto,bingkai_foto_id.mp3,إِطَارصُوْر,bingkai_foto_ar.mp3,Photo Frame,bingkai_foto_eng.mp3
+RUANG KELUARGA,Hiasan Dinding,hiasan_dinding_id.mp3,زِينَةحائِط,hiasan_dinding_ar.mp3,Wall Decor,hiasan_dinding_eng.mp3
+RUANG KELUARGA,Kotak Tisu,kotak_tisu_id.mp3,عُلْبَةمِنَادِيْل,kotak_tisu_ar.mp3,Tissue Box,kotak_tisu_eng.mp3
+RUANG KELUARGA,Kipas Angin,kipas_angin_id.mp3,مِرْوَحَة,kipas_angin_ar.mp3,Fan,kipas_angin_eng.mp3
+RUANG KELUARGA,Lukisan,lukisan_id.mp3,لَوْحَة فَنِّيَّة,lukisan_ar.mp3,Painting,lukisan_eng.mp3
+TAMAN,Taman,taman_id.mp3,حَدِيْقَة,taman_ar.mp3,Garden,taman_eng.mp3
+TAMAN,Rumput,rumput_id.mp3,عُشْب,rumput_ar.mp3,Grass,rumput_eng.mp3
+TAMAN,Bunga,bunga_id.mp3,زَهْرَة,bunga_ar.mp3,Flower,bunga_eng.mp3
+TAMAN,Pohon,pohon_id.mp3,شَجَرَة,pohon_ar.mp3,Tree,pohon_eng.mp3
+TAMAN,Tanaman,tanaman_id.mp3,نَبَات,tanaman_ar.mp3,Plant,tanaman_eng.mp3
+TAMAN,Pagar,pagar_id.mp3,سُوْرٌ,pagar_ar.mp3,Fence,pagar_eng.mp3
+TAMAN,Selang Air,selang_air_id.mp3,خُرْطُوم مَاء,selang_air_ar.mp3,Water Hose,selang_air_eng.mp3
+TAMAN,Taman Bermain,taman_bermain_id.mp3,حَدِيْقَة أَلْعَاب,taman_bermain_ar.mp3,Playground,taman_bermain_eng.mp3
+TAMAN,Pintu Gerbang,pintu_gerbang_id.mp3,بَوَّابَة,pintu_gerbang_ar.mp3,Gate,pintu_gerbang_eng.mp3
+TAMAN,Kolam Ikan,kolam_ikan_id.mp3,حَوْض سَمَك,kolam_ikan_ar.mp3,Fish Pond,kolam_ikan_eng.mp3
+TAMAN,Jalan Setapak,jalan_setapak_id.mp3,دَرْب للمَشْي,jalan_setapak_ar.mp3,Pathway,jalan_setapak_eng.mp3
+TAMAN,Kursi Taman,kursi_taman_id.mp3,مَقْعَد حَدِيْقَة,kursi_taman_ar.mp3,Bench,kursi_taman_eng.mp3
+TAMAN,Lapangan,lapangan_id.mp3,مَلْعَب,lapangan_ar.mp3,Field,lapangan_eng.mp3
+TAMAN,Pintu Keluar,pintu_keluar_id.mp3,مَخْرَج,pintu_keluar_ar.mp3,Exit,pintu_keluar_eng.mp3
+TAMAN,Batu Alam,batu_alam_id.mp3,حَجَر طَبِيْعِيّ,batu_alam_ar.mp3,Stone,batu_alam_eng.mp3
+TAMAN,Pot Tanaman,pot_tanaman_id.mp3,إِنَاء نَبَات,pot_tanaman_ar.mp3,Pot,pot_tanaman_eng.mp3
+TAMAN,Papan Petunjuk,papan_petunjuk_id.mp3,لَوحَةدَلَالِيَّة,papan_petunjuk_ar.mp3,Signboard,papan_petunjuk_eng.mp3
+TAMAN,Peralatan Kebun,peralatan_kebun_id.mp3,أَدَوَات حَدِيْقَة,peralatan_kebun_ar.mp3,Garden Tools,peralatan_kebun_eng.mp3
+TAMAN,Tanah,tanah_id.mp3,تُرَبَّة,tanah_ar.mp3,Soil,tanah_eng.mp3
+LAPANGAN,Lapangan,lapangan_id.mp3,مَلْعَب,lapangan_ar.mp3,Field,lapangan_eng.mp3
+LAPANGAN,Gawang,gawang_id.mp3,مَرْمَى,gawang_ar.mp3,Goal,gawang_eng.mp3
+LAPANGAN,Net,net_id.mp3,شَبَكَة,net_ar.mp3,Net,net_eng.mp3
+LAPANGAN,Bola,bola_id.mp3,كُرَة,bola_ar.mp3,Ball,bola_eng.mp3
+LAPANGAN,Wasit,wasit_id.mp3,حَكَم,wasit_ar.mp3,Referee,wasit_eng.mp3
+LAPANGAN,Pemain,pemain_id.mp3,لاَعِب,pemain_ar.mp3,Player,pemain_eng.mp3
+LAPANGAN,Bangku Cadangan,bangku_cadangan_id.mp3,مَقْعَد اِحْتِيَاطِي,bangku_cadangan_ar.mp3,Substitute Bench,bangku_cadangan_eng.mp3
+LAPANGAN,Tribun,tribun_id.mp3,مَدَرَّج,tribun_ar.mp3,Stands,tribun_eng.mp3
+LAPANGAN,Peluit,peluit_id.mp3,صَفَّارَة,peluit_ar.mp3,Whistle,peluit_eng.mp3
+LAPANGAN,Kaos,kaos_id.mp3,قَمِيْص,kaos_ar.mp3,Jersey,kaos_eng.mp3
+LAPANGAN,Celana Pendek,celana_pendek_id.mp3,سِرْوَال قَصِير,celana_pendek_ar.mp3,Shorts,celana_pendek_eng.mp3
+LAPANGAN,Sepatu Bola,sepatu_bola_id.mp3,حِذَاء كُرَة الْقَدَم,sepatu_bola_ar.mp3,Football Shoes,sepatu_bola_eng.mp3
+LAPANGAN,Botol Air,botol_air_id.mp3,كِيْس مِيَاه,botol_air_ar.mp3,Water Bottle,botol_air_eng.mp3
+LAPANGAN,Lapangan Tenis,lapangan_tenis_id.mp3,مَلْعَب تنِّس,lapangan_tenis_ar.mp3,Tennis Court,lapangan_tenis_eng.mp3
+LAPANGAN,Raket,raket_id.mp3,مِضْرَب,raket_ar.mp3,Racket,raket_eng.mp3
+LAPANGAN,Keranjang Basket,keranjang_basket_id.mp3,السَّلَّة,keranjang_basket_ar.mp3,Basket,keranjang_basket_eng.mp3
+LAPANGAN,Bola Basket,bola_basket_id.mp3,كُرَة السَّلَّة,bola_basket_ar.mp3,Basketball,bola_basket_eng.mp3
+LAPANGAN,Bulu Tangkis,bulu_tangkis_id.mp3,كُرَةِ الرَّيْشَة,bulu_tangkis_ar.mp3,Badminton,bulu_tangkis_eng.mp3
+LAPANGAN,Papan Skor,papan_skor_id.mp3,لَوحَة النِّتِيْجَة,papan_skor_ar.mp3,Score Board,papan_skor_eng.mp3
+LAPANGAN,Tandu,tandu_id.mp3,نَقِيْلَة,tandu_ar.mp3,Stretcher,tandu_eng.mp3
+LAPANGAN,Pelatih,pelatih_id.mp3,مُدَرِّب,pelatih_ar.mp3,Coach,pelatih_eng.mp3
+LAPANGAN,Bendera Sudut,bendera_sudut_id.mp3,عَلَم رُكْن,bendera_sudut_ar.mp3,Corner Flag,bendera_sudut_eng.mp3
+LAPANGAN,Bola Penalti,bola_penalti_id.mp3,كُرَة الْجَزَاء,bola_penalti_ar.mp3,Penalty Kick Ball,bola_penalti_eng.mp3
+LAPANGAN,Bola Tendangan Bebas,bola_tendangan_bebas_id.mp3,كُرَة الضَّرْبَة الْحُرَّة,bola_tendangan_bebas_ar.mp3,Free Kick Ball,bola_tendangan_bebas_eng.mp3
+LAPANGAN,Pelindung Kaki,pelindung_kaki_id.mp3,حَامِي الْقَدَم,pelindung_kaki_ar.mp3,Decker,pelindung_kaki_eng.mp3
+LAPANGAN,Gawang Mini,gawang_mini_id.mp3,هَدَف صَغِيْر,gawang_mini_ar.mp3,Mini Goal,gawang_mini_eng.mp3
+LAPANGAN,Kantong Bola,kantong_bola_id.mp3,حَقِيْبَة الْكُرَة,kantong_bola_ar.mp3,Ball Bag,kantong_bola_eng.mp3
+LAPANGAN,Kiper,kiper_id.mp3,حَارِس مَرْمَى,kiper_ar.mp3,Goalkeeper,kiper_eng.mp3
+LAPANGAN,Ikat Kepala,ikat_kepala_id.mp3,شَرِيْط الرَّأْس,ikat_kepala_ar.mp3,Headband,ikat_kepala_eng.mp3
+LAPANGAN,Pakaian Latihan,pakaian_latihan_id.mp3,مَلاَبِس التَّمْرِيْن,pakaian_latihan_ar.mp3,Training Suit,pakaian_latihan_eng.mp3
+LAPANGAN,Kartu Kuning,kartu_kuning_id.mp3,بِطَاقَة صَفْرَاء,kartu_kuning_ar.mp3,Yellow Card,kartu_kuning_eng.mp3
+LAPANGAN,Kartu Merah,kartu_merah_id.mp3,بِطَاقَة حَمْرَاء,kartu_merah_ar.mp3,Red Card,kartu_merah_eng.mp3
+LAPANGAN,Sarung Tangan Kiper,sarung_tangan_kiper_id.mp3,قَفَّاز الحارِس,sarung_tangan_kiper_ar.mp3,Goalkeeper Gloves,sarung_tangan_kiper_eng.mp3
+LAPANGAN,Kaos Pelatih,kaos_pelatih_id.mp3,قَمِيْص الْمُدَرِّب,kaos_pelatih_ar.mp3,Coach's Shirt,kaos_pelatih_eng.mp3
+LAPANGAN,Penyerang,penyerang_id.mp3,مُهَاجِم,penyerang_ar.mp3,Forward,penyerang_eng.mp3
+LAPANGAN,Penyerang Sayap,penyerang_sayap_id.mp3,مُهَاجِم جَنَاحِيْ,penyerang_sayap_ar.mp3,Wing Forward,penyerang_sayap_eng.mp3
+LAPANGAN,Gelandang,gelandang_id.mp3,وَسَطِي,gelandang_ar.mp3,Midfielder,gelandang_eng.mp3
+LAPANGAN,Bek,bek_id.mp3,مُدَافِع,bek_ar.mp3,Defender,bek_eng.mp3
+LAPANGAN,Bek Tengah,bek_tengah_id.mp3,مُدَافِع وَسَطِيْ,bek_tengah_ar.mp3,Central Defender,bek_tengah_eng.mp3
+LAPANGAN,Tendangan Sudut,tendangan_sudut_id.mp3,رُكْن,tendangan_sudut_ar.mp3,Corner Kick,tendangan_sudut_eng.mp3
+LAPANGAN,Tendangan Bebas,tendangan_bebas_id.mp3,ضَرْبَة حُرَّة,tendangan_bebas_ar.mp3,Free Kick,tendangan_bebas_eng.mp3
+LAPANGAN,Offside,offside_id.mp3,تَسَلُّلٌ,offside_ar.mp3,Offside,offside_eng.mp3
+LAPANGAN,Gawang Kosong,gawang_kosong_id.mp3,مَرْمَى فَارِغ,gawang_kosong_ar.mp3,Empty Goal,gawang_kosong_eng.mp3
+LAPANGAN,Dribel,dribel_id.mp3,مُرَاوَغَة,dribel_ar.mp3,Dribble,dribel_eng.mp3
+LAPANGAN,Pusat,pusat_id.mp3,مَرْكَز,pusat_ar.mp3,Center,pusat_eng.mp3
+LAPANGAN,Serangan Balik,serangan_balik_id.mp3,اَلاِرْتِدَاد,serangan_balik_ar.mp3,Counter Attack,serangan_balik_eng.mp3
+LAPANGAN,Operan,operan_id.mp3,تَمْرِيْرَة,operan_ar.mp3,Assist,operan_eng.mp3
+SEKOLAH,Meja,meja_id.mp3,مَكْتَبٌ,meja_ar.mp3,Table,meja_eng.mp3
+SEKOLAH,Kursi,kursi_id.mp3,كُرْسِيّ,kursi_ar.mp3,Chair,kursi_eng.mp3
+SEKOLAH,Papan Tulis,papan_tulis_id.mp3,سَبُّوْرَةٌ,papan_tulis_ar.mp3,Whiteboard,papan_tulis_eng.mp3
+SEKOLAH,Buku,buku_id.mp3,كِتَابٌ,buku_ar.mp3,Book,buku_eng.mp3
+SEKOLAH,Pensil,pensil_id.mp3,قَلَمُ رَصَاصٍ,pensil_ar.mp3,Pencil,pensil_eng.mp3
+SEKOLAH,Pulpen,pulpen_id.mp3,قَلَمٌ جَافٌّ,pulpen_ar.mp3,Pen,pulpen_eng.mp3
+SEKOLAH,Penggaris,penggaris_id.mp3,مِسْطَرَةٌ,penggaris_ar.mp3,Ruler,penggaris_eng.mp3
+SEKOLAH,Spidol,spidol_id.mp3,قَلَمُ مَارْكَرٍ,spidol_ar.mp3,Marker,spidol_eng.mp3
+SEKOLAH,Tas,tas_id.mp3,حَقِيْبَةٌ,tas_ar.mp3,Bag,tas_eng.mp3
+SEKOLAH,Seragam Sekolah,seragam_sekolah_id.mp3,زِيُّ الْمَدْرَسَةِ,seragam_sekolah_ar.mp3,School Uniform,seragam_sekolah_eng.mp3
+SEKOLAH,Kantin,kantin_id.mp3,كَافِتَرِيَا,kantin_ar.mp3,Cafeteria,kantin_eng.mp3
+SEKOLAH,Guru,guru_id.mp3,مُعَلِّمٌ,guru_ar.mp3,Teacher,guru_eng.mp3
+SEKOLAH,Siswa,siswa_id.mp3,تَلَمِيْذ,siswa_ar.mp3,Student,siswa_eng.mp3
+SEKOLAH,Papan Pengumuman,papan_pengumuman_id.mp3,لَوْحَةُ الْإِعْلَانِ,papan_pengumuman_ar.mp3,Notice Board,papan_pengumuman_eng.mp3
+SEKOLAH,Kertas,kertas_id.mp3,وَرَقَةٌ,kertas_ar.mp3,Paper,kertas_eng.mp3
+SEKOLAH,Komputer,komputer_id.mp3,حَاسُوْبٌ,komputer_ar.mp3,Computer,komputer_eng.mp3
+SEKOLAH,Proyektor,proyektor_id.mp3,عَارِضَةٌ,proyektor_ar.mp3,Projector,proyektor_eng.mp3
+SEKOLAH,Laboratorium,laboratorium_id.mp3,مَعْمَلٌ,laboratorium_ar.mp3,Laboratory,laboratorium_eng.mp3
+SEKOLAH,Kelas,kelas_id.mp3,صَفٌّ,kelas_ar.mp3,Classroom,kelas_eng.mp3
+SEKOLAH,Kalkulator,kalkulator_id.mp3,آلَةحَاسَبَة,kalkulator_ar.mp3,Calculator,kalkulator_eng.mp3
+SEKOLAH,Bendera,bendera_id.mp3,عَلَمٌ,bendera_ar.mp3,Flag,bendera_eng.mp3
+SEKOLAH,Buku Teks,buku_teks_id.mp3,كِتَابُ تَمْهِيْدٍ,buku_teks_ar.mp3,Textbook,buku_teks_eng.mp3
+SEKOLAH,Laptop,laptop_id.mp3,لَابْتُوْبٌ,laptop_ar.mp3,Laptop,laptop_eng.mp3
+SEKOLAH,Mading,mading_id.mp3,لَوْحَةُ إِعْلَانَاتٍ,mading_ar.mp3,Bulletin Board,mading_eng.mp3
+KANTIN,Makanan,makanan_id.mp3,طَعَام,makanan_ar.mp3,Food,makanan_eng.mp3
+KANTIN,Minuman,minuman_id.mp3,مَشْرُوب,minuman_ar.mp3,Drink,minuman_eng.mp3
+KANTIN,Kantong Plastik,kantong_plastik_id.mp3,كِيْس بَلاسْتِيك,kantong_plastik_ar.mp3,Plastic Bag,kantong_plastik_eng.mp3
+KANTIN,Menu,menu_id.mp3,قَائِمَة طَعَام,menu_ar.mp3,Menu,menu_eng.mp3
+KANTIN,Kasir,kasir_id.mp3,كَاشِيْر,kasir_ar.mp3,Cashier,kasir_eng.mp3
+KANTIN,Papan Menu,papan_menu_id.mp3,لَوْحَة الْقَائِمَة,papan_menu_ar.mp3,Menu Board,papan_menu_eng.mp3
+KANTIN,Mangkok,mangkok_id.mp3,وِعَاء,mangkok_ar.mp3,Bowl,mangkok_eng.mp3
+KANTIN,Cangkir,cangkir_id.mp3,كُوب,cangkir_ar.mp3,Cup,cangkir_eng.mp3
+KANTIN,Kantong Makanan,kantong_makanan_id.mp3,كِيْس طَعَام,kantong_makanan_ar.mp3,Food Bag,kantong_makanan_eng.mp3
+KANTIN,Kantong Minuman,kantong_minuman_id.mp3,كِيْس مَشْرُوب,kantong_minuman_ar.mp3,Drink Bag,kantong_minuman_eng.mp3
+KANTIN,Harga,harga_id.mp3,سِعْر,harga_ar.mp3,Price,harga_eng.mp3
+KANTIN,Nasi,nasi_id.mp3,أُرُز,nasi_ar.mp3,Rice,nasi_eng.mp3
+KANTIN,Roti,roti_id.mp3,خُبْز,roti_ar.mp3,Bread,roti_eng.mp3
+KANTIN,Kue,kue_id.mp3,كَعْكَة,kue_ar.mp3,Cake,kue_eng.mp3
+KANTIN,Sosis,sosis_id.mp3,سُجُّوْك,sosis_ar.mp3,Sausage,sosis_eng.mp3
+KANTIN,Daging,daging_id.mp3,لَحْم,daging_ar.mp3,Meat,daging_eng.mp3
+KANTIN,Sayuran,sayuran_id.mp3,خَضْرَوَات,sayuran_ar.mp3,Vegetables,sayuran_eng.mp3
+KANTIN,Buah,buah_id.mp3,فَاكِهَة,buah_ar.mp3,Fruit,buah_eng.mp3
+KANTIN,Keju,keju_id.mp3,جُبْن,keju_ar.mp3,Cheese,keju_eng.mp3
+KANTIN,Kue Kering,kue_kering_id.mp3,بِسْكُوِيْت,kue_kering_ar.mp3,Cookies,kue_kering_eng.mp3
+KANTIN,Donat,donat_id.mp3,دُونَات,donat_ar.mp3,Doughnut,donat_eng.mp3
+KANTIN,Keripik,keripik_id.mp3,رَقَائِق,keripik_ar.mp3,Chips,keripik_eng.mp3
+KANTIN,Soda,soda_id.mp3,صُودَا,soda_ar.mp3,Soda,soda_eng.mp3
+KANTIN,Kopi,kopi_id.mp3,قَهْوَة,kopi_ar.mp3,Coffee,kopi_eng.mp3
+KANTIN,Teh,teh_id.mp3,شَاي,teh_ar.mp3,Tea,teh_eng.mp3
+KANTIN,Es Krim,es_krim_id.mp3,آيْس كْرِيْم,es_krim_ar.mp3,Ice Cream,es_krim_eng.mp3
+KANTIN,Air Mineral,air_mineral_id.mp3,مِيَاه مِعْدَنِيَّة,air_mineral_ar.mp3,Mineral Water,air_mineral_eng.mp3
+KANTIN,Saus,saus_id.mp3,صَوْص,saus_ar.mp3,Sauce,saus_eng.mp3
+KANTIN,Tisu,tisu_id.mp3,مِنْديْل,tisu_ar.mp3,Tissue,tisu_eng.mp3
+KANTIN,Cemilan,cemilan_id.mp3,وَجْبَة خَفِيْفَة,cemilan_ar.mp3,Snack,cemilan_eng.mp3
+KANTIN,Meja Kasir,meja_kasir_id.mp3,طَاوِلَة الْكَاشِيْر,meja_kasir_ar.mp3,Cashier Table,meja_kasir_eng.mp3
+MAKANAN,Nasi Goreng,nasi_goreng_id.mp3,نَسِيْ نَسْيَاً,nasi_goreng_ar.mp3,Fried Rice,nasi_goreng_eng.mp3
+MAKANAN,Ayam Goreng,ayam_goreng_id.mp3,دَجَاجٌ مَقْلِيٌّ,ayam_goreng_ar.mp3,Fried Chicken,ayam_goreng_eng.mp3
+MAKANAN,Mie Goreng,mie_goreng_id.mp3,مِي نَسْيَاً,mie_goreng_ar.mp3,Fried Noodles,mie_goreng_eng.mp3
+MAKANAN,Pizza,pizza_id.mp3,بِيْتْزَا,pizza_ar.mp3,Pizza,pizza_eng.mp3
+MAKANAN,Burger,burger_id.mp3,بَرْجَر,burger_ar.mp3,Burger,burger_eng.mp3
+MAKANAN,Spaghetti,spaghetti_id.mp3,سْبَغِيْتِي,spaghetti_ar.mp3,Spaghetti,spaghetti_eng.mp3
+MAKANAN,Steak,steak_id.mp3,سْتِيْك,steak_ar.mp3,Steak,steak_eng.mp3
+MAKANAN,Sushi,sushi_id.mp3,سُوْشِيْ,sushi_ar.mp3,Sushi,sushi_eng.mp3
+MAKANAN,Sate,sate_id.mp3,سَاتَايْ,sate_ar.mp3,Satay,sate_eng.mp3
+MAKANAN,Kebab,kebab_id.mp3,كَبَاب,kebab_ar.mp3,Kebab,kebab_eng.mp3
+MAKANAN,Rendang,rendang_id.mp3,رِنْدَانْغ,rendang_ar.mp3,Rendang,rendang_eng.mp3
+MAKANAN,Nasi Kuning,nasi_kuning_id.mp3,نَاسِيْ كُوْنِيْنْغ,nasi_kuning_ar.mp3,Yellow Rice,nasi_kuning_eng.mp3
+MAKANAN,Soto,soto_id.mp3,سُوْتُوْ,soto_ar.mp3,Soto,soto_eng.mp3
+MAKANAN,Bakso,bakso_id.mp3,بَاكْسُوْ,bakso_ar.mp3,Meatball,bakso_eng.mp3
+MAKANAN,Gudeg,gudeg_id.mp3,جُوْدِق,gudeg_ar.mp3,Gudeg,gudeg_eng.mp3
+MAKANAN,Pecel Lele,pecel_lele_id.mp3,بِتْشَل لِيلِيْ,pecel_lele_ar.mp3,Fried Catfish,pecel_lele_eng.mp3
+MAKANAN,Mie Ayam,mie_ayam_id.mp3,مِيْ أَيَّام,mie_ayam_ar.mp3,Chicken Noodles,mie_ayam_eng.mp3
+MAKANAN,Ikan Bakar,ikan_bakar_id.mp3,إِيْكَان بَكَار,ikan_bakar_ar.mp3,Grilled Fish,ikan_bakar_eng.mp3
+MAKANAN,Bakmi Ayam,bakmi_ayam_id.mp3,بَكْمِ أَيَّام,bakmi_ayam_ar.mp3,Chicken Noodles,bakmi_ayam_eng.mp3
+MAKANAN,Kari Kambing,kari_kambing_id.mp3,كَارِيْ كَمْبِيْنْغ,kari_kambing_ar.mp3,Lamb Curry,kari_kambing_eng.mp3
+MAKANAN,Mie Aceh,mie_aceh_id.mp3,مِيْ أَتْشِه,mie_aceh_ar.mp3,Aceh Noodles,mie_aceh_eng.mp3
+MAKANAN,Puding,puding_id.mp3,بُوْدِيْنْغ,puding_ar.mp3,Pudding,puding_eng.mp3
+BUAH,Apel,apel_id.mp3,تُفَّاح,apel_ar.mp3,Apple,apel_eng.mp3
+BUAH,Jeruk,jeruk_id.mp3,بُرْتُقَال,jeruk_ar.mp3,Orange,jeruk_eng.mp3
+BUAH,Pisang,pisang_id.mp3,مَوْز,pisang_ar.mp3,Banana,pisang_eng.mp3
+BUAH,Mangga,mangga_id.mp3,مَانْغَا,mangga_ar.mp3,Mango,mangga_eng.mp3
+BUAH,Anggur,anggur_id.mp3,عِنَب,anggur_ar.mp3,Grape,anggur_eng.mp3
+BUAH,Semangka,semangka_id.mp3,بِطِّيْخ,semangka_ar.mp3,Watermelon,semangka_eng.mp3
+BUAH,Melon,melon_id.mp3,شَمَّام,melon_ar.mp3,Melon,melon_eng.mp3
+BUAH,Stroberi,stroberi_id.mp3,فَرَاوَلَة,stroberi_ar.mp3,Strawberry,stroberi_eng.mp3
+BUAH,Pepaya,pepaya_id.mp3,بَابَايَا,pepaya_ar.mp3,Papaya,pepaya_eng.mp3
+BUAH,Kiwi,kiwi_id.mp3,كِيْوِي,kiwi_ar.mp3,Kiwi,kiwi_eng.mp3
+BUAH,Pir,pir_id.mp3,كَمَّثَرَاء,pir_ar.mp3,Pear,pir_eng.mp3
+BUAH,Persik,persik_id.mp3,خُوج,persik_ar.mp3,Peach,persik_eng.mp3
+BUAH,Nanas,nanas_id.mp3,أَنَانَاس,nanas_ar.mp3,Pineapple,nanas_eng.mp3
+BUAH,Aprikot,aprikot_id.mp3,مِشْمِش,aprikot_ar.mp3,Apricot,aprikot_eng.mp3
+BUAH,Jambu Biji,jambu_biji_id.mp3,جَوَّاف,jambu_biji_ar.mp3,Guava,jambu_biji_eng.mp3
+BUAH,Ceri,ceri_id.mp3,كِرَّز,ceri_ar.mp3,Cherry,ceri_eng.mp3
+BUAH,Nangka,nangka_id.mp3,جَّاكْفْرُوت,nangka_ar.mp3,Jackfruit,nangka_eng.mp3
+BUAH,Durian,durian_id.mp3,دُرِيَّا,durian_ar.mp3,Durian,durian_eng.mp3
+BUAH,Blueberry,blueberry_id.mp3,تُوْت,blueberry_ar.mp3,Blueberry,blueberry_eng.mp3
+BUAH,Plum,plum_id.mp3,خُوْخ بَرَاكَتْ,plum_ar.mp3,Plum,plum_eng.mp3
+BUAH,Salak,salak_id.mp3,ثَعْبَوْر,salak_ar.mp3,Snake Fruit,salak_eng.mp3
+BUAH,Markisa,markisa_id.mp3,مَرَاكُوْجَا,markisa_ar.mp3,Passion Fruit,markisa_eng.mp3
+BUAH,Rambutan,rambutan_id.mp3,رَمْبُوْتَان,rambutan_ar.mp3,Rambutan,rambutan_eng.mp3
+BUAH,Kelengkeng,kelengkeng_id.mp3,لِنْكُوْز,kelengkeng_ar.mp3,Longan,kelengkeng_eng.mp3
+BUAH,Manggis,manggis_id.mp3,مَنْغُوْس,manggis_ar.mp3,Mangosteen,manggis_eng.mp3
+BUAH,Delima,delima_id.mp3,رُمَّان,delima_ar.mp3,Pomegranate,delima_eng.mp3
+HEWAN-HEWAN,Anjing,anjing_id.mp3,كَلْب,anjing_ar.mp3,Dog,anjing_eng.mp3
+HEWAN-HEWAN,Kucing,kucing_id.mp3,قِطّ,kucing_ar.mp3,Cat,kucing_eng.mp3
+HEWAN-HEWAN,Singa,singa_id.mp3,أَسَد,singa_ar.mp3,Lion,singa_eng.mp3
+HEWAN-HEWAN,Gajah,gajah_id.mp3,فِيل,gajah_ar.mp3,Elephant,gajah_eng.mp3
+HEWAN-HEWAN,Harimau,harimau_id.mp3,نَمِر,harimau_ar.mp3,Tiger,harimau_eng.mp3
+HEWAN-HEWAN,Kuda,kuda_id.mp3,حِصَان,kuda_ar.mp3,Horse,kuda_eng.mp3
+HEWAN-HEWAN,Sapi,sapi_id.mp3,بَقَرَة,sapi_ar.mp3,Cow,sapi_eng.mp3
+HEWAN-HEWAN,Domba,domba_id.mp3,خَرُوف,domba_ar.mp3,Sheep,domba_eng.mp3
+HEWAN-HEWAN,Kelinci,kelinci_id.mp3,أَرْنَب,kelinci_ar.mp3,Rabbit,kelinci_eng.mp3
+HEWAN-HEWAN,Ayam,ayam_id.mp3,دَجَاج,ayam_ar.mp3,Chicken,ayam_eng.mp3
+HEWAN-HEWAN,Kambing,kambing_id.mp3,مَاعِز,kambing_ar.mp3,Goat,kambing_eng.mp3
+HEWAN-HEWAN,Babi,babi_id.mp3,خِنْزِير,babi_ar.mp3,Pig,babi_eng.mp3
+HEWAN-HEWAN,Monyet,monyet_id.mp3,قِرْد,monyet_ar.mp3,Monkey,monyet_eng.mp3
+HEWAN-HEWAN,Kupu-kupu,kupu_kupu_id.mp3,فَرَاشَة,kupu_kupu_ar.mp3,Butterfly,kupu_kupu_eng.mp3
+HEWAN-HEWAN,Lebah,lebah_id.mp3,نَحْلَة,lebah_ar.mp3,Bee,lebah_eng.mp3
+HEWAN-HEWAN,Ular,ular_id.mp3,ثُعْبَان,ular_ar.mp3,Snake,ular_eng.mp3
+HEWAN-HEWAN,Buaya,buaya_id.mp3,تِمْسَاح,buaya_ar.mp3,Crocodile,buaya_eng.mp3
+HEWAN-HEWAN,Katak,katak_id.mp3,ضِفْدَع,katak_ar.mp3,Frog,katak_eng.mp3
+HEWAN-HEWAN,Panda,panda_id.mp3,بَانْدَا,panda_ar.mp3,Panda,panda_eng.mp3
+HEWAN-HEWAN,Jerapah,jerapah_id.mp3,زَرَافَة,jerapah_ar.mp3,Giraffe,jerapah_eng.mp3
+HEWAN-HEWAN,Kanguru,kanguru_id.mp3,كَنْغَرُو,kanguru_ar.mp3,Kangaroo,kanguru_eng.mp3
+HEWAN-HEWAN,Kelelawar,kelelawar_id.mp3,خَفَّاش,kelelawar_ar.mp3,Bat,kelelawar_eng.mp3
+HEWAN-HEWAN,Lumba-lumba,lumba_lumba_id.mp3,دُلْفِين,lumba_lumba_ar.mp3,Dolphin,lumba_lumba_eng.mp3
+HEWAN-HEWAN,Kucing Hutan,kucing_hutan_id.mp3,سِيدِيدَان,kucing_hutan_ar.mp3,Wildcat,kucing_hutan_eng.mp3
+HEWAN-HEWAN,Landak,landak_id.mp3,قُنْفُذ,landak_ar.mp3,Porcupine,landak_eng.mp3
+HEWAN-HEWAN,Burung Hantu,burung_hantu_id.mp3,بُومَة,burung_hantu_ar.mp3,Owl,burung_hantu_eng.mp3
+HEWAN-HEWAN,Serigala,serigala_id.mp3,ذِئْب,serigala_ar.mp3,Wolf,serigala_eng.mp3
+HEWAN-HEWAN,Badak,badak_id.mp3,وَحِيد الْقَرْن,badak_ar.mp3,Rhinoceros,badak_eng.mp3
+HEWAN-HEWAN,Kuda Nil,kuda_nil_id.mp3,فِيلُودِر,kuda_nil_ar.mp3,Hippopotamus,kuda_nil_eng.mp3
+HEWAN-HEWAN,Kepiting,kepiting_id.mp3,سَرَطَان,kepiting_ar.mp3,Crab,kepiting_eng.mp3
+PROFESI,Guru,guru_id.mp3,مُعَلِّم,guru_ar.mp3,Teacher,guru_eng.mp3
+PROFESI,Dokter,dokter_id.mp3,طَبِيْب,dokter_ar.mp3,Doctor,dokter_eng.mp3
+PROFESI,Polisi,polisi_id.mp3,شُرْطِيّ,polisi_ar.mp3,Police,polisi_eng.mp3
+PROFESI,Penyanyi,penyanyi_id.mp3,مُغَنٍّ,penyanyi_ar.mp3,Singer,penyanyi_eng.mp3
+PROFESI,Pilot,pilot_id.mp3,طَيَّار,pilot_ar.mp3,Pilot,pilot_eng.mp3
+PROFESI,Tentara,tentara_id.mp3,جُنْدِيّ,tentara_ar.mp3,Soldier,tentara_eng.mp3
+PROFESI,Pemadam Kebakaran,pemadam_kebakaran_id.mp3,رَجُل إِطْفَاء,pemadam_kebakaran_ar.mp3,Firefighter,pemadam_kebakaran_eng.mp3
+PROFESI,Insinyur,insinyur_id.mp3,مُهَنْدِس,insinyur_ar.mp3,Engineer,insinyur_eng.mp3
+PROFESI,Pengacara,pengacara_id.mp3,مُحَام,pengacara_ar.mp3,Lawyer,pengacara_eng.mp3
+PROFESI,Pelukis,pelukis_id.mp3,رَسَّام,pelukis_ar.mp3,Painter,pelukis_eng.mp3
+PROFESI,Aktor,aktor_id.mp3,مُمَثِّل,aktor_ar.mp3,Actor,aktor_eng.mp3
+PROFESI,Koki,koki_id.mp3,طَاهٍ,koki_ar.mp3,Chef,koki_eng.mp3
+PROFESI,Pramugari,pramugari_id.mp3,مُضِيفَة جَوِّيَّة,pramugari_ar.mp3,Flight Attendant,pramugari_eng.mp3
+PROFESI,Petani,petani_id.mp3,فَلَّاح,petani_ar.mp3,Farmer,petani_eng.mp3
+PROFESI,Pemilik Bisnis,pemilik_bisnis_id.mp3,رَجُل أَعْمَال,pemilik_bisnis_ar.mp3,Business Owner,pemilik_bisnis_eng.mp3
+PROFESI,Guru Olahraga,guru_olahraga_id.mp3,مُدَرِّب رِيَاضَة,guru_olahraga_ar.mp3,Physical Teacher,guru_olahraga_eng.mp3
+PROFESI,Musisi,musisi_id.mp3,مُوسِيْقِيّ,musisi_ar.mp3,Musician,musisi_eng.mp3
+PROFESI,Sopir Taksi,sopir_taksi_id.mp3,سَائِق تَاكْسِيّ,sopir_taksi_ar.mp3,Taxi Driver,sopir_taksi_eng.mp3
+PROFESI,Teknisi Komputer,teknisi_komputer_id.mp3,فَنِّيُّ كُمْبِيُوْتِر,teknisi_komputer_ar.mp3,Computer Technician,teknisi_komputer_eng.mp3
+PROFESI,Jurnalis,jurnalis_id.mp3,صَحَفِيّ,jurnalis_ar.mp3,Journalist,jurnalis_eng.mp3
+PROFESI,Pustakawan,pustakawan_id.mp3,أَمِيْن مَكْتَبَة,pustakawan_ar.mp3,Librarian,pustakawan_eng.mp3
+PROFESI,Dosen,dosen_id.mp3,أُسْتَاذ,dosen_ar.mp3,Lecturer/Professor,dosen_eng.mp3
+PROFESI,Desainer Grafis,desainer_grafis_id.mp3,مُصَمِّم جْرَافِيك,desainer_grafis_ar.mp3,Graphic Designer,desainer_grafis_eng.mp3
+PROFESI,Montir,montir_id.mp3,فَنِّي سَيَّارَات,montir_ar.mp3,Mechanic,montir_eng.mp3
+PROFESI,Pedagang,pedagang_id.mp3,تَاجِر,pedagang_ar.mp3,Merchant,pedagang_eng.mp3
+PROFESI,Perawat,perawat_id.mp3,مُمَرِّض,perawat_ar.mp3,Nurse,perawat_eng.mp3
+PROFESI,Astronot,astronot_id.mp3,رَائِد فَضَاء,astronot_ar.mp3,Astronaut,astronot_eng.mp3
+PROFESI,Penulis,penulis_id.mp3,كَاتِب,penulis_ar.mp3,Writer,penulis_eng.mp3
+PROFESI,Konsultan Keuangan,konsultan_keuangan_id.mp3,مُسْتَشَار مَالِي,konsultan_keuangan_ar.mp3,Financial Consultant,konsultan_keuangan_eng.mp3
+KAMAR TIDUR (KATA KERJA),Bangun tidur,bangun_tidur_id.mp3,اِسْتَيْقَظَ - يَسْتَيْقِظُ,bangun_tidur_ar.mp3,Wake up,bangun_tidur_eng.mp3
+KAMAR TIDUR (KATA KERJA),Tidur,tidur_id.mp3,نَامَ - يَنَامُ,tidur_ar.mp3,Sleep,tidur_eng.mp3
+KAMAR TIDUR (KATA KERJA),Bermimpi,bermimpi_id.mp3,حَلَمَ - يَحْلُمُ,bermimpi_ar.mp3,Dream,bermimpi_eng.mp3
+KAMAR TIDUR (KATA KERJA),Membangunkan,membangunkan_id.mp3,أَيْقَظَ - يُوقِظُ,membangunkan_ar.mp3,Wake someone up,membangunkan_eng.mp3
+KAMAR TIDUR (KATA KERJA),Beristirahat,beristirahat_id.mp3,اِسْتَرَاحَ - يَسْتَرِيْحُ,beristirahat_ar.mp3,Rest,beristirahat_eng.mp3
+KAMAR TIDUR (KATA KERJA),Mengantuk,mengantuk_id.mp3,كَسِلَ - يَكْسَلُ,mengantuk_ar.mp3,Drowsy,mengantuk_eng.mp3
+KAMAR TIDUR (KATA KERJA),Berbaring,berbaring_id.mp3,اِسْتَلْقَى - يَسْتَلْقِي,berbaring_ar.mp3,Lie down,berbaring_eng.mp3
+KAMAR TIDUR (KATA KERJA),Membuka mata,membuka_mata_id.mp3,فَتَحَ - يَفْتَحُ الْعَيْنَيْنِ,membuka_mata_ar.mp3,Open eyes,membuka_mata_eng.mp3
+KAMAR TIDUR (KATA KERJA),Meregangkan,meregangkan_id.mp3,تَمَدَّدَ - يَتَمَدَّدُ,meregangkan_ar.mp3,Stretch,meregangkan_eng.mp3
+KAMAR TIDUR (KATA KERJA),Mematikan lampu,mematikan_lampu_id.mp3,أَطْفَأَ النُّوْرَ - يُطْفِئُ النُّوْرَ,mematikan_lampu_ar.mp3,Turn off the light,mematikan_lampu_eng.mp3
+KAMAR TIDUR (KATA KERJA),Menyalakan lampu,menyalakan_lampu_id.mp3,أَشْعَلَ النُّوْرَ - يُشْعِلُ النُّوْرَ,menyalakan_lampu_ar.mp3,Turn on the light,menyalakan_lampu_eng.mp3
+KAMAR TIDUR (KATA KERJA),Membuka jendela,membuka_jendela_id.mp3,فَتَحَ النَّافِذَةَ - يَفْتَحُ النَّافِذَةَ,membuka_jendela_ar.mp3,Open the window,membuka_jendela_eng.mp3
+KAMAR TIDUR (KATA KERJA),Menutup jendela,menutup_jendela_id.mp3,غَلَقَ النَّافِذَةَ - يُغْلِقُ النَّافِذَةَ,menutup_jendela_ar.mp3,Close the window,menutup_jendela_eng.mp3
+KAMAR TIDUR (KATA KERJA),Membuka pintu,membuka_pintu_id.mp3,فَتَحَ الْبَابَ - يَفْتَحُ الْبَابَ,membuka_pintu_ar.mp3,Open the door,membuka_pintu_eng.mp3
+KAMAR TIDUR (KATA KERJA),Menutup pintu,menutup_pintu_id.mp3,غَلَقَ الْبَابَ - يُغْلِقُ الْبَابَ,menutup_pintu_ar.mp3,Close the door,menutup_pintu_eng.mp3
+KAMAR TIDUR (KATA KERJA),Melamun,melamun_id.mp3,تَأَمَّلَ - يَتَأَمَّلُ,melamun_ar.mp3,Daydream,melamun_eng.mp3
+KAMAR MANDI (KATA KERJA),Mandi,mandi_id.mp3,اِغْتَسَلَ - يَغْتَسِلُ,mandi_ar.mp3,Take a bath,mandi_eng.mp3
+KAMAR MANDI (KATA KERJA),Cuci tangan,cuci_tangan_id.mp3,غَسَلَ الْيَدَيْنِ - يَغْسِلُ الْيَدَيْنِ,cuci_tangan_ar.mp3,Wash hands,cuci_tangan_eng.mp3
+KAMAR MANDI (KATA KERJA),Cebok,cebok_id.mp3,اِسْتَنْجَى - يَسْتَنْجِي,cebok_ar.mp3,Use a bidet,cebok_eng.mp3
+KAMAR MANDI (KATA KERJA),Berkumur-kumur,berkumur_id.mp3,تَمَضْمَضَ - يَتَمَضْمَضُ,berkumur_ar.mp3,Gargle,berkumur_eng.mp3
+KAMAR MANDI (KATA KERJA),Gosok gigi,gosok_gigi_id.mp3,فَرَكَ الْأَسْنَانَ - يَفْرُكُ الْأَسْنَانَ,gosok_gigi_ar.mp3,Brush teeth,gosok_gigi_eng.mp3
+KAMAR MANDI (KATA KERJA),Cuci muka,cuci_muka_id.mp3,غَسَلَ الْوَجْهَ - يَغْسِلُ الْوَجْهَ,cuci_muka_ar.mp3,Wash face,cuci_muka_eng.mp3
+KAMAR MANDI (KATA KERJA),Mengeringkan tangan,mengeringkan_tangan_id.mp3,نَشَّفَ الْيَدَيْنِ - يُنَشِّفُ الْيَدَيْنِ,mengeringkan_tangan_ar.mp3,Dry hands,mengeringkan_tangan_eng.mp3
+KAMAR MANDI (KATA KERJA),Mengeringkan rambut,mengeringkan_rambut_id.mp3,نَشَّفَ الشَّعْرَ - يُنَشِّفُ الشَّعْرَ,mengeringkan_rambut_ar.mp3,Dry hair,mengeringkan_rambut_eng.mp3
+KAMAR MANDI (KATA KERJA),Menggunakan sabun,menggunakan_sabun_id.mp3,اِسْتَخْدَمَ الصَّابُونَ - يَسْتَخْدِمُ الصَّابُونَ,menggunakan_sabun_ar.mp3,Use soap,menggunakan_sabun_eng.mp3
+KAMAR MANDI (KATA KERJA),Membilas,membilas_id.mp3,شَطَفَ - يَشْطُفُ,membilas_ar.mp3,Rinse,membilas_eng.mp3
+KAMAR MANDI (KATA KERJA),Menyisir rambut,menyisir_rambut_id.mp3,مَشَطَ الشَّعْرَ - يَمْشُطُ الشَّعْرَ,menyisir_rambut_ar.mp3,Brush hair,menyisir_rambut_eng.mp3
+KAMAR MANDI (KATA KERJA),Membersihkan toilet,membersihkan_toilet_id.mp3,نَظَّفَ الْمِرْحَاضَ - يُنَظِّفُ الْمِرْحَاضَ,membersihkan_toilet_ar.mp3,Clean the toilet,membersihkan_toilet_eng.mp3
+KAMAR MANDI (KATA KERJA),Menguras bak mandi,menguras_bak_mandi_id.mp3,صَرَفَ الْمَاءَ فِي الْحَوْضِ - يَصْرِفُ الْمَاءَ فِي الْحَوْضِ,menguras_bak_mandi_ar.mp3,Drain the bathtub,menguras_bak_mandi_eng.mp3
+KAMAR MANDI (KATA KERJA),Menggunakan sampo,menggunakan_sampo_id.mp3,اِسْتَخْدَمَ الشَّامْبُو - يَسْتَخْدِمُ الشَّامْبُو,menggunakan_sampo_ar.mp3,Use shampoo,menggunakan_sampo_eng.mp3
+KAMAR MANDI (KATA KERJA),Mengeringkan tubuh,mengeringkan_tubuh_id.mp3,نَشَّفَ الْجَسَدَ - يُنَشِّفُ الْجَسَدَ,mengeringkan_tubuh_ar.mp3,Dry the body,mengeringkan_tubuh_eng.mp3
+KAMAR MANDI (KATA KERJA),Mencukur,mencukur_id.mp3,حَلَقَ - يَحْلِقُ,mencukur_ar.mp3,Shave,mencukur_eng.mp3
+KAMAR MANDI (KATA KERJA),Mengganti pakaian dalam,mengganti_pakaian_dalam_id.mp3,غَيَّرَ الثِّيَابَ الدَّاخِلِيَّةَ - يُغَيِّرُ الثِّيَابَ الدَّاخِلِيَّةَ,mengganti_pakaian_dalam_ar.mp3,Change underwear,mengganti_pakaian_dalam_eng.mp3
+KAMAR MANDI (KATA KERJA),Menggunakan pelembap,menggunakan_pelembap_id.mp3,اِسْتَخْدَمَ مُرَطِّبًا - يَسْتَخْدِمُ مُرَطِّبًا,menggunakan_pelembap_ar.mp3,Use moisturizer,menggunakan_pelembap_eng.mp3
+KAMAR MANDI (KATA KERJA),Menggunakan deodoran,menggunakan_deodoran_id.mp3,اِسْتَخْدَمَ مُزِيلَ الرَّائِحَةِ - يَسْتَخْدِمُ مُزِيلَ الرَّائِحَةِ,menggunakan_deodoran_ar.mp3,Use deodorant,menggunakan_deodoran_eng.mp3
+KAMAR MANDI (KATA KERJA),Mengelap badan,mengelap_badan_id.mp3,مَسَحَ الْجَسَدَ - يَمْسَحُ الْجَسَدَ,mengelap_badan_ar.mp3,Wipe body,mengelap_badan_eng.mp3
+KAMAR MANDI (KATA KERJA),Menyeka keringat,menyeka_keringat_id.mp3,مَسَحَ الْعَرَقَ - يَمْسَحُ الْعَرَقَ,menyeka_keringat_ar.mp3,Wipe sweat,menyeka_keringat_eng.mp3
+KAMAR MANDI (KATA KERJA),Memakai handuk,memakai_handuk_id.mp3,اِرْتَدَى الْفُوْطَةَ - يَرْتَدِي الْفُوْطَةَ,memakai_handuk_ar.mp3,Wear a towel,memakai_handuk_eng.mp3
+BELAJAR (KATA KERJA),Belajar,belajar_id.mp3,تَعَلَّمَ - يَتَعَلَّمُ,belajar_ar.mp3,Learn,belajar_eng.mp3
+BELAJAR (KATA KERJA),Mengajar,mengajar_id.mp3,عَلَّمَ - يُعَلِّمُ,mengajar_ar.mp3,Teach,mengajar_eng.mp3
+BELAJAR (KATA KERJA),Membaca,membaca_id.mp3,قَرَأَ - يَقْرَأُ,membaca_ar.mp3,Read,membaca_eng.mp3
+BELAJAR (KATA KERJA),Menulis,menulis_id.mp3,كَتَبَ - يَكْتُبُ,menulis_ar.mp3,Write,menulis_eng.mp3
+BELAJAR (KATA KERJA),Menghitung,menghitung_id.mp3,عَدَّ - يَعُدُّ,menghitung_ar.mp3,Count,menghitung_eng.mp3
+BELAJAR (KATA KERJA),Mendengarkan,mendengarkan_id.mp3,اِسْتَمَعَ - يَسْتَمِعُ,mendengarkan_ar.mp3,Listen,mendengarkan_eng.mp3
+BELAJAR (KATA KERJA),Bertanya,bertanya_id.mp3,سَأَلَ - يَسْأَلُ,bertanya_ar.mp3,Ask,bertanya_eng.mp3
+BELAJAR (KATA KERJA),Menjawab,menjawab_id.mp3,أَجَابَ - يُجِيبُ,menjawab_ar.mp3,Answer,menjawab_eng.mp3
+BELAJAR (KATA KERJA),Berbicara,berbicara_id.mp3,تَحَدَّثَ - يَتَحَدَّثُ,berbicara_ar.mp3,Speak,berbicara_eng.mp3
+BELAJAR (KATA KERJA),Mengulang,mengulang_id.mp3,كَرَّرَ - يُكَرِّرُ,mengulang_ar.mp3,Repeat,mengulang_eng.mp3
+BELAJAR (KATA KERJA),Menghapal,menghapal_id.mp3,حَفِظَ - يَحْفَظُ,menghapal_ar.mp3,Memorize,menghapal_eng.mp3
+BELAJAR (KATA KERJA),Mengerjakan,mengerjakan_id.mp3,قَامَ بِ - يَقُومُ بِ,mengerjakan_ar.mp3,Do,mengerjakan_eng.mp3
+BELAJAR (KATA KERJA),Mengerjakan PR,mengerjakan_pr_id.mp3,قَامَ بِوَاجِبِ الْبَيْتِ - يَقُومُ بِوَاجِبِ الْبَيْتِ,mengerjakan_pr_ar.mp3,Do homework,mengerjakan_pr_eng.mp3
+BELAJAR (KATA KERJA),Membuka buku,membuka_buku_id.mp3,فَتَحَ الْكِتَابَ - يَفْتَحُ الْكِتَابَ,membuka_buku_ar.mp3,Open a book,membuka_buku_eng.mp3
+BELAJAR (KATA KERJA),Menutup buku,menutup_buku_id.mp3,غَلَقَ الْكِتَابَ - يُغْلِقُ الْكِتَابَ,menutup_buku_ar.mp3,Close a book,menutup_buku_eng.mp3
+BELAJAR (KATA KERJA),Mengerjakan tugas,mengerjakan_tugas_id.mp3,قَامَ بِوَاجِبٍ - يَقُومُ بِوَاجِبٍ,mengerjakan_tugas_ar.mp3,Complete an assignment,mengerjakan_tugas_eng.mp3
+BELAJAR (KATA KERJA),Berpartisipasi,berpartisipasi_id.mp3,شَارَكَ - يَشْتَرِكُ,berpartisipasi_ar.mp3,Participate,berpartisipasi_eng.mp3
+BELAJAR (KATA KERJA),Menghadiri,menghadiri_id.mp3,حَضَرَ - يَحْضُرُ,menghadiri_ar.mp3,Attend,menghadiri_eng.mp3
+BELAJAR (KATA KERJA),Memahami,memahami_id.mp3,فَهِمَ - يَفْهَمُ,memahami_ar.mp3,Understand,memahami_eng.mp3
+BELAJAR (KATA KERJA),Belajar bersama,belajar_bersama_id.mp3,دَرَسَ مَعَ - يَدْرُسُ مَعَ,belajar_bersama_ar.mp3,Study together,belajar_bersama_eng.mp3
+BELAJAR (KATA KERJA),Mengerjakan ujian,mengerjakan_ujian_id.mp3,أَجْرَى اِخْتِبَارًا - يُجْرِي اِخْتِبَارًا,mengerjakan_ujian_ar.mp3,Take a test,mengerjakan_ujian_eng.mp3
+BELAJAR (KATA KERJA),Mengumpulkan,mengumpulkan_id.mp3,سَلَّمَ - يُسَلِّمُ,mengumpulkan_ar.mp3,Submit,mengumpulkan_eng.mp3
+BELAJAR (KATA KERJA),Menyimak,menyimak_id.mp3,أَنْصَتَ - يُنْصِتُ,menyimak_ar.mp3,Pay attention,menyimak_eng.mp3
+BELAJAR (KATA KERJA),Menggambar,menggambar_id.mp3,رَسَمَ - يَرْسُمُ,menggambar_ar.mp3,Draw,menggambar_eng.mp3
+BELAJAR (KATA KERJA),Mengukur,mengukur_id.mp3,قَاسَ - يَقِيسُ,mengukur_ar.mp3,Measure,mengukur_eng.mp3
+BELAJAR (KATA KERJA),Menggunakan komputer,menggunakan_komputer_id.mp3,اِسْتَخْدَمَ الْكُمْبِيُوتَرَ - يَسْتَخْدِمُ الْكُمْبِيُوتَرَ,menggunakan_komputer_ar.mp3,Use the computer,menggunakan_komputer_eng.mp3
+BELAJAR (KATA KERJA),Menggunakan alat tulis,menggunakan_alat_tulis_id.mp3,اِسْتَخْدَمَ أَدَوَاتَ الْكِتَابَةِ - يَسْتَخْدِمُ أَدَوَاتَ الْكِتَابَةِ,menggunakan_alat_tulis_ar.mp3,Use stationery,menggunakan_alat_tulis_eng.mp3
+BELAJAR (KATA KERJA),Berfikir,berpikir_id.mp3,تَفَكَّرَ - يَتَفَكَّرُ,berpikir_ar.mp3,Think,berpikir_eng.mp3
+BELAJAR (KATA KERJA),Mempresentasikan,mempresentasikan_id.mp3,قَدَّمَ عَرْضًا - يُقَدِّمُ عَرْضًا,mempresentasikan_ar.mp3,Present,mempresentasikan_eng.mp3
+KELAS (KATA KERJA),Mencatat,mencatat_id.mp3,سَجَّلَ - يُسَجِّلُ,mencatat_ar.mp3,Take notes,mencatat_eng.mp3
+KELAS (KATA KERJA),Berdiskusi,berdiskusi_id.mp3,نَاقَشَ - يُنَاقِشُ,berdiskusi_ar.mp3,Discuss,berdiskusi_eng.mp3
+KELAS (KATA KERJA),Mendengar dengan teliti,mendengar_dengan_teliti_id.mp3,اِسْتَمَعَ بِعِنَايَةٍ - يَسْتَمِعُ بِعِنَايَةٍ,mendengar_dengan_teliti_ar.mp3,Listen carefully,mendengar_dengan_teliti_eng.mp3
+KELAS (KATA KERJA),Menggunakan papan tulis,menggunakan_papan_tulis_id.mp3,اِسْتَخْدَمَ السَّبُّورَةَ - يَسْتَخْدِمُ السَّبُّورَةَ,menggunakan_papan_tulis_ar.mp3,Use the whiteboard,menggunakan_papan_tulis_eng.mp3
+KELAS (KATA KERJA),Berpikir kritis,berpikir_kritis_id.mp3,تَفَكَّرَ بِشَكْلٍ نَقْدِيٍّ - يَتَفَكَّرُ بِشَكْلٍ نَقْدِيٍّ,berpikir_kritis_ar.mp3,Think critically,berpikir_kritis_eng.mp3
+KELAS (KATA KERJA),Mengorganisir,mengorganisir_id.mp3,نَظَّمَ - يُنَظِّمُ,mengorganisir_ar.mp3,Organize,mengorganisir_eng.mp3
+KELAS (KATA KERJA),Mengumpulkan tugas telat,mengumpulkan_tugas_telat_id.mp3,سَلَّمَ وَاجِبًا مُتَأَخِّرًا - يُسَلِّمُ وَاجِبًا مُتَأَخِّرًا,mengumpulkan_tugas_telat_ar.mp3,Submit a late assignment,mengumpulkan_tugas_telat_eng.mp3
+KELAS (KATA KERJA),Bermain-main,bermain_main_id.mp3,لَعِبَ - يَلْعَبُ,bermain_main_ar.mp3,Play around,bermain_main_eng.mp3
+KELAS (KATA KERJA),Mencontek,mencontek_id.mp3,غَشَّ - يَغُشُّ,mencontek_ar.mp3,Cheat,mencontek_eng.mp3
+KELAS (KATA KERJA),Melalaikan,melalaikan_id.mp3,تَهَاوَنَ - يَتَهَاوَنُ,melalaikan_ar.mp3,Slack off,melalaikan_eng.mp3
+KELAS (KATA KERJA),Membolos,membolos_id.mp3,غَابَ - يَغِيبُ,membolos_ar.mp3,Skip class,membolos_eng.mp3
+KELAS (KATA KERJA),Mengganggu,mengganggu_id.mp3,أَزْعَجَ - يُزْعِجُ,mengganggu_ar.mp3,Disturb,mengganggu_eng.mp3
+KELAS (KATA KERJA),Membosankan,membosankan_id.mp3,مَلَّ - يَمَلُّ,membosankan_ar.mp3,Bore,membosankan_eng.mp3
+KELAS (KATA KERJA),Merusak,merusak_id.mp3,خَرَّبَ - يُخَرِّبُ,merusak_ar.mp3,Ruin,merusak_eng.mp3
+KELAS (KATA KERJA),Menghindari tanggung jawab,menghindari_tanggung_jawab_id.mp3,تَجَنَّبَ المَسْؤُولِيَّةَ - يَتَجَنَّبُ المَسْؤُولِيَّةَ,menghindari_tanggung_jawab_ar.mp3,Avoid responsibility,menghindari_tanggung_jawab_eng.mp3
+KELAS (KATA KERJA),Mengulur waktu,mengulur_waktu_id.mp3,تَمَلَّكَ - يَتَمَلَّكُ,mengulur_waktu_ar.mp3,Procrastinate,mengulur_waktu_eng.mp3
+KELAS (KATA KERJA),Menjatuhkan nilai,menjatuhkan_nilai_id.mp3,خَفَضَ الدَّرَجَةَ - يَخْفِضُ الدَّرَجَةَ,menjatuhkan_nilai_ar.mp3,Lower a grade,menjatuhkan_nilai_eng.mp3
+KELAS (KATA KERJA),Memalsukan tanda tangan,memalsukan_tanda_tangan_id.mp3,زَيَّفَ التَّوْقِيعَ - يُزَيِّفُ التَّوْقِيعَ,memalsukan_tanda_tangan_ar.mp3,Forge a signature,memalsukan_tanda_tangan_eng.mp3
+KELAS (KATA KERJA),Menghindari pelajaran,menghindari_pelajaran_id.mp3,تَجَنَّبَ الدَّرْسَ - يَتَجَنَّبُ الدَّرْسَ,menghindari_pelajaran_ar.mp3,Skip lessons,menghindari_pelajaran_eng.mp3
+KELAS (KATA KERJA),Mengikuti pelajaran,mengikuti_pelajaran_id.mp3,تَابَعَ الدَّرْسَ - يُتَابِعُ الدَّرْسَ,mengikuti_pelajaran_ar.mp3,Follow the lesson,mengikuti_pelajaran_eng.mp3
+DAPUR (KATA KERJA),Memasak,memasak_id.mp3,طَبَخَ - يَطْبُخُ,memasak_ar.mp3,Cook,memasak_eng.mp3
+DAPUR (KATA KERJA),Mencuci piring,mencuci_piring_id.mp3,غَسَلَ الصُّحُوْنَ - يَغْسِلُ الصُّحُوْنَ,mencuci_piring_ar.mp3,Wash dishes,mencuci_piring_eng.mp3
+DAPUR (KATA KERJA),Mengiris,mengiris_id.mp3,قَطَعَ - يَقْطَعُ,mengiris_ar.mp3,Slice,mengiris_eng.mp3
+DAPUR (KATA KERJA),Menggoreng,menggoreng_id.mp3,قَلَى - يَقْلِي,menggoreng_ar.mp3,Fry,menggoreng_eng.mp3
+DAPUR (KATA KERJA),Mengulek,mengulek_id.mp3,هَرَسَ - يَهْرُسُ,mengulek_ar.mp3,Mash,mengulek_eng.mp3
+DAPUR (KATA KERJA),Memotong,memotong_id.mp3,قَطَعَ - يَقْطَعُ,memotong_ar.mp3,Cut,memotong_eng.mp3
+DAPUR (KATA KERJA),Mengaduk,mengaduk_id.mp3,قَلَّبَ - يُقَلِّبُ,mengaduk_ar.mp3,Stir,mengaduk_eng.mp3
+DAPUR (KATA KERJA),Mencampur,mencampur_id.mp3,خَلَطَ - يَخْلِطُ,mencampur_ar.mp3,Mix,mencampur_eng.mp3
+DAPUR (KATA KERJA),Menyaring,menyaring_id.mp3,صَفَّى - يُصَفِّي,menyaring_ar.mp3,Strain,menyaring_eng.mp3
+DAPUR (KATA KERJA),Menanak nasi,menanak_nasi_id.mp3,سَلَقَ - يَسْلُقُ,menanak_nasi_ar.mp3,Cook rice,menanak_nasi_eng.mp3
+DAPUR (KATA KERJA),Mengupas,mengupas_id.mp3,قَشَّرَ - يُقَشِّرُ,mengupas_ar.mp3,Peel,mengupas_eng.mp3
+DAPUR (KATA KERJA),Membuat teh/kopi,membuat_teh_kopi_id.mp3,حَضَّرَ شَايًا/قَهْوَةً - يُحَضِّرُ شَايًا/قَهْوَةً,membuat_teh_kopi_ar.mp3,Make tea/coffee,membuat_teh_kopi_eng.mp3
+DAPUR (KATA KERJA),Menambah garam,menambah_garam_id.mp3,أَضَافَ مِلْحًا - يُضِيفُ مِلْحًا,menambah_garam_ar.mp3,Add salt,menambah_garam_eng.mp3
+DAPUR (KATA KERJA),Mencicipi,mencicipi_id.mp3,ذَاقَ - يَذُوقُ,mencicipi_ar.mp3,Taste,mencicipi_eng.mp3
+DAPUR (KATA KERJA),Menyajikan,menyajikan_id.mp3,قَدَّمَ - يُقَدِّمُ,menyajikan_ar.mp3,Serve,menyajikan_eng.mp3
+DAPUR (KATA KERJA),Menghidangkan,menghidangkan_id.mp3,خَدَمَ - يَخْدُمُ,menghidangkan_ar.mp3,Serve (a meal),menghidangkan_eng.mp3
+DAPUR (KATA KERJA),Mencuci sayuran,mencuci_sayuran_id.mp3,غَسَلَ الْخَضْرَوَاتِ - يَغْسِلُ الْخَضْرَوَاتِ,mencuci_sayuran_ar.mp3,Rinse vegetables,mencuci_sayuran_eng.mp3
+DAPUR (KATA KERJA),Mengaduk adonan,mengaduk_adonan_id.mp3,عَجَنَ الْعَجِينَةَ - يَعْجِنُ الْعَجِينَةَ,mengaduk_adonan_ar.mp3,Knead the dough,mengaduk_adonan_eng.mp3
+DAPUR (KATA KERJA),Mengukus,mengukus_id.mp3,بَخَّرَ الطَّعَامَ - يُبَخِّرُ الطَّعَامَ,mengukus_ar.mp3,Steam,mengukus_eng.mp3
+DAPUR (KATA KERJA),Memasukkan ke dalam oven,memasukkan_ke_dalam_oven_id.mp3,وَضَعَ فِي الْفُرْنِ - يَضَعُ فِي الْفُرْنِ,memasukkan_ke_dalam_oven_ar.mp3,Put in the oven,memasukkan_ke_dalam_oven_eng.mp3
+DAPUR (KATA KERJA),Memasak di atas api,memasak_di_atas_api_id.mp3,طَهَى عَلَى النَّارِ - يَطْهُو عَلَى النَّارِ,memasak_di_atas_api_ar.mp3,Cook over the fire,memasak_di_atas_api_eng.mp3
+DAPUR (KATA KERJA),Menghias,menghias_id.mp3,زَيَّنَ - يُزَيِّنُ,menghias_ar.mp3,Decorate,menghias_eng.mp3
+DAPUR (KATA KERJA),Mengukus nasi,mengukus_nasi_id.mp3,بَخَّرَ الْأَرُزَّ - يُبَخِّرُ الْأَرُزَّ,mengukus_nasi_ar.mp3,Steam rice,mengukus_nasi_eng.mp3
+DAPUR (KATA KERJA),Mengupas bawang,mengupas_bawang_id.mp3,قَشَّرَ الْبَصَلَ - يُقَشِّرُ الْبَصَلَ,mengupas_bawang_ar.mp3,Peel onions,mengupas_bawang_eng.mp3
+DAPUR (KATA KERJA),Mencetak adonan,mencetak_adonan_id.mp3,صَنَعَ الْعَجِينَةَ - يَصْنَعُ الْعَجِينَةَ,mencetak_adonan_ar.mp3,Shape the dough,mencetak_adonan_eng.mp3
+DAPUR (KATA KERJA),Mengaduk kuah,mengaduk_kuah_id.mp3,حَرَّكَ الصَّلْصَةَ - يُحَرِّكُ الصَّلْصَةَ,mengaduk_kuah_ar.mp3,Stir the sauce,mengaduk_kuah_eng.mp3
+DAPUR (KATA KERJA),Mencuci buah,mencuci_buah_id.mp3,غَسَلَ الْفَاكِهَةَ - يَغْسِلُ الْفَاكِهَةَ,mencuci_buah_ar.mp3,Wash fruits,mencuci_buah_eng.mp3
+DAPUR (KATA KERJA),Mengeringkan piring,mengeringkan_piring_id.mp3,نَشَّفَ الصُّحُونَ - يُنَشِّفُ الصُّحُونَ,mengeringkan_piring_ar.mp3,Dry dishes,mengeringkan_piring_eng.mp3
+DAPUR (KATA KERJA),Menyajikan makanan,menyajikan_makanan_id.mp3,قَدَّمَ الطَّعَامَ - يُقَدِّمُ الطَّعَامَ,menyajikan_makanan_ar.mp3,Present food,menyajikan_makanan_eng.mp3
+IBADAH (KATA KERJA),Berdoa,berdoa_id.mp3,دَعَا - يَدْعُو,berdoa_ar.mp3,Pray,berdoa_eng.mp3
+IBADAH (KATA KERJA),Berpuasa,berpuasa_id.mp3,صَامَ - يَصُومُ,berpuasa_ar.mp3,Fast,berpuasa_eng.mp3
+IBADAH (KATA KERJA),Membaca Al Qur'an,membaca_al_quran_id.mp3,قَرَأَ الْقُرْآنَ - يَقْرَأُ الْقُرْآنَ,membaca_al_quran_ar.mp3,Read the Quran,membaca_al_quran_eng.mp3
+IBADAH (KATA KERJA),Berbagi,berbagi_id.mp3,شَارَكَ - يُشَارِكُ,berbagi_ar.mp3,Share,berbagi_eng.mp3
+IBADAH (KATA KERJA),Membersihkan kamar,membersihkan_kamar_id.mp3,نَظَّفَ الْغُرْفَةَ - يُنَظِّفُ الْغُرْفَةَ,membersihkan_kamar_ar.mp3,Clean the room,membersihkan_kamar_eng.mp3
+IBADAH (KATA KERJA),Merapikan tempat tidur,merapikan_tempat_tidur_id.mp3,جَعَلَ السَّرِيرَ فِي الْحَالَةِ - يَجْعَلُ السَّرِيرَ فِي الْحَالَةِ,merapikan_tempat_tidur_ar.mp3,Make the bed,merapikan_tempat_tidur_eng.mp3
+IBADAH (KATA KERJA),Menyusun barang-barang,menyusun_barang_barang_id.mp3,رَتَّبَ الْأَغْرَاضَ - يُرَتِّبُ الْأَغْرَاضَ,menyusun_barang_barang_ar.mp3,Organize things,menyusun_barang_barang_eng.mp3
+IBADAH (KATA KERJA),Mengatur jadwal,mengatur_jadwal_id.mp3,نَظَّمَ الْجَدْوَلَ - يُنَظِّمُ الْجَدْوَلَ,mengatur_jadwal_ar.mp3,Arrange the schedule,mengatur_jadwal_eng.mp3
+IBADAH (KATA KERJA),Menggantung baju,menggantung_baju_id.mp3,عَلَّقَ الثِّيَابَ - يُعَلِّقُ الثِّيَابَ,menggantung_baju_ar.mp3,Hang clothes,menggantung_baju_eng.mp3
+IBADAH (KATA KERJA),Membaca kitab,membaca_kitab_id.mp3,قَرَأَ الْكِتَابَ - يَقْرَأُ الْكِتَابَ,membaca_kitab_ar.mp3,Read a book,membaca_kitab_eng.mp3
+IBADAH (KATA KERJA),Menulis jurnal,menulis_jurnal_id.mp3,كَتَبَ يَوْمِيَّاتٍ - يَكْتُبُ يَوْمِيَّاتٍ,menulis_jurnal_ar.mp3,Write a journal,menulis_jurnal_eng.mp3
+IBADAH (KATA KERJA),Membaca hadis,membaca_hadis_id.mp3,قَرَأَ الْحَدِيثَ - يَقْرَأُ الْحَدِيثَ,membaca_hadis_ar.mp3,Read hadith,membaca_hadis_eng.mp3
+IBADAH (KATA KERJA),Bermeditasi,bermeditasi_id.mp3,تَأَمَّلَ - يَتَأَمَّلُ,bermeditasi_ar.mp3,Meditate,bermeditasi_eng.mp3
+IBADAH (KATA KERJA),Menjaga adab,menjaga_adab_id.mp3,حَافَظَ عَلَى الْآدَابِ - يُحَافِظُ عَلَى الْآدَابِ,menjaga_adab_ar.mp3,Maintain etiquette,menjaga_adab_eng.mp3
+IBADAH (KATA KERJA),Melakukan dzikir,melakukan_dzikir_id.mp3,أَدَّى الذِّكْرَ - يُؤَدِّي الذِّكْرَ,melakukan_dzikir_ar.mp3,Perform dhikr,melakukan_dzikir_eng.mp3
+IBADAH (KATA KERJA),Menyusun sepatu,menyusun_sepatu_id.mp3,رَتَّبَ النَّعْلَيْنِ - يُرَتِّبُ النَّعْلَيْنِ,menyusun_sepatu_ar.mp3,Tidy up shoes,menyusun_sepatu_eng.mp3
+IBADAH (KATA KERJA),Beristirahat,beristirahat_id.mp3,رَاحَ - يَرِيحُ,beristirahat_ar.mp3,Rest,beristirahat_eng.mp3
+IBADAH (KATA KERJA),Mengaji,mengaji_id.mp3,تَلَا - يَتْلُو,mengaji_ar.mp3,Recite (Quran),mengaji_eng.mp3
+IBADAH (KATA KERJA),Menyapu lantai,menyapu_lantai_id.mp3,كَنَسَ الْأَرْضَ - يَكْنُسُ الْأَرْضَ,menyapu_lantai_ar.mp3,Sweep the floor,menyapu_lantai_eng.mp3
+IBADAH (KATA KERJA),Mengenalkan diri,mengenalkan_diri_id.mp3,تَعَرَّفَ عَلَى نَفْسِهِ - يَتَعَرَّفُ عَلَى نَفْسِهِ,mengenalkan_diri_ar.mp3,Introduce oneself,mengenalkan_diri_eng.mp3
+IBADAH (KATA KERJA),Melaksanakan ibadah,melaksanakan_ibadah_id.mp3,أَدَّى الْعِبَادَةَ - يُؤَدِّي الْعِبَادَةَ,melaksanakan_ibadah_ar.mp3,Perform worship,melaksanakan_ibadah_eng.mp3
+MASJID (KATA KERJA),Shalat,shalat_id.mp3,صَلَّى - يُصَلِّي,shalat_ar.mp3,Pray,shalat_eng.mp3
+MASJID (KATA KERJA),Mengimami,mengimami_id.mp3,إِمَامَ - يُؤُمُّ,mengimami_ar.mp3,Lead in prayer,mengimami_eng.mp3
+MASJID (KATA KERJA),Mendengarkan khutbah,mendengarkan_khutbah_id.mp3,اِسْتَمَعَ الْخُطْبَةَ - يَسْتَمِعُ الْخُطْبَةَ,mendengarkan_khutbah_ar.mp3,Listen to the sermon,mendengarkan_khutbah_eng.mp3
+MASJID (KATA KERJA),Berjamaah,berjamaah_id.mp3,صَلَّى فِي جَمَاعَةٍ - يُصَلِّي فِي جَمَاعَةٍ,berjamaah_ar.mp3,Pray in congregation,berjamaah_eng.mp3
+MASJID (KATA KERJA),Menghadap kiblat,menghadap_kiblat_id.mp3,وَجَّهَ الْوَجْهَ إِلَى الْقِبْلَةِ - يُوَجِّهُ الْوَجْهَ إِلَى الْقِبْلَةِ,menghadap_kiblat_ar.mp3,Face the Qibla,menghadap_kiblat_eng.mp3
+MASJID (KATA KERJA),Berwudhu,berwudhu_id.mp3,تَوَضَّأَ - يَتَوَضَّأُ,berwudhu_ar.mp3,Take Wudhu,berwudhu_eng.mp3
+MASJID (KATA KERJA),Berkumpul,berkumpul_id.mp3,تَجَمَّعَ - يَتَجَمَّعُ,berkumpul_ar.mp3,Gather,berkumpul_eng.mp3
+MASJID (KATA KERJA),Membaca hadis,membaca_hadis_id.mp3,قَرَأَ الْحَدِيثَ - يَقْرَأُ الْحَدِيثَ,membaca_hadis_ar.mp3,Read hadith,membaca_hadis_eng.mp3
+MASJID (KATA KERJA),Berbuat kebajikan,berbuat_kebajikan_id.mp3,عَمَلَ الْخَيْرَاتِ - يَعْمَلُ الْخَيْرَاتِ,berbuat_kebajikan_ar.mp3,Perform good deeds,berbuat_kebajikan_eng.mp3
+MASJID (KATA KERJA),Memohon ampunan,memohon_ampunan_id.mp3,اِسْتَغْفَرَ - يَسْتَغْفِرُ,memohon_ampunan_ar.mp3,Seek forgiveness,memohon_ampunan_eng.mp3
+MASJID (KATA KERJA),Memasuki masjid,memasuki_masjid_id.mp3,دَخَلَ الْمَسْجِدَ - يَدْخُلُ الْمَسْجِدَ,memasuki_masjid_ar.mp3,Enter the mosque,memasuki_masjid_eng.mp3
+MASJID (KATA KERJA),Keluar dari masjid,keluar_dari_masjid_id.mp3,خَرَجَ مِنَ الْمَسْجِدِ - يَخْرُجُ مِنَ الْمَسْجِدِ,keluar_dari_masjid_ar.mp3,Exit the mosque,keluar_dari_masjid_eng.mp3
+MASJID (KATA KERJA),Menjawab salam,menjawab_salam_id.mp3,رَدَّ السَّلَامَ - يَرُدُّ السَّلَامَ,menjawab_salam_ar.mp3,Respond to greetings,menjawab_salam_eng.mp3
+MASJID (KATA KERJA),Memohon petunjuk,memohon_petunjuk_id.mp3,اِسْتَفْتَى - يَسْتَفْتِي,memohon_petunjuk_ar.mp3,Seek for guidance,memohon_petunjuk_eng.mp3
+MASJID (KATA KERJA),Mengunjungi masjid,mengunjungi_masjid_id.mp3,زَارَ الْمَسْجِدَ - يَزُورُ الْمَسْجِدَ,mengunjungi_masjid_ar.mp3,Visit the mosque,mengunjungi_masjid_eng.mp3
+MAKANAN (KATA KERJA),Mengantri,mengantri_id.mp3,وَقَفَ فِي الطَّابِلَةِ - يَقِفُ فِي الطَّابِلَةِ,mengantri_ar.mp3,Queue,mengantri_eng.mp3
+MAKANAN (KATA KERJA),Membeli,membeli_id.mp3,اِشْتَرَى - يَشْتَرِي,membeli_ar.mp3,Buy,membeli_eng.mp3
+MAKANAN (KATA KERJA),Membayar,membayar_id.mp3,دَفَعَ - يَدْفَعُ,membayar_ar.mp3,Pay,membayar_eng.mp3
+MAKANAN (KATA KERJA),Mengambil,mengambil_id.mp3,أَخَذَ - يَأْخُذُ,mengambil_ar.mp3,Take,mengambil_eng.mp3
+MAKANAN (KATA KERJA),Memilih,memilih_id.mp3,اِخْتَارَ - يَخْتَارُ,memilih_ar.mp3,Choose,memilih_eng.mp3
+MAKANAN (KATA KERJA),Menghangatkan,menghangatkan_id.mp3,سَخَّنَ - يُسَخِّنُ,menghangatkan_ar.mp3,Heat,menghangatkan_eng.mp3
+MAKANAN (KATA KERJA),Menikmati,menikmati_id.mp3,اِسْتَمْتَعَ - يَسْتَمْتِعُ,menikmati_ar.mp3,Enjoy,menikmati_eng.mp3
+MAKANAN (KATA KERJA),Membagi,membagi_id.mp3,قَسَمَ - يُقْسِمُ,membagi_ar.mp3,Divide,membagi_eng.mp3
+MAKANAN (KATA KERJA),Membersihkan meja,membersihkan_meja_id.mp3,نَظَّفَ الطَّاوِلَةَ - يُنَظِّفُ الطَّاوِلَةَ,membersihkan_meja_ar.mp3,Clean the table,membersihkan_meja_eng.mp3
+MAKANAN (KATA KERJA),Memotong,memotong_id.mp3,قَطَعَ - يَقْطَعُ,memotong_ar.mp3,Cut,memotong_eng.mp3
+MAKANAN (KATA KERJA),Mengaduk,mengaduk_id.mp3,خَلَطَ - يَخْلِطُ,mengaduk_ar.mp3,Mix,mengaduk_eng.mp3
+MAKANAN (KATA KERJA),Membungkus,membungkus_id.mp3,لَفَّ - يَلُفُّ,membungkus_ar.mp3,Wrap,membungkus_eng.mp3
+MAKANAN (KATA KERJA),Mencuci piring,mencuci_piring_id.mp3,غَسَلَ الصُّحُونَ - يَغْسِلُ الصُّحُونَ,mencuci_piring_ar.mp3,Wash dishes,mencuci_piring_eng.mp3
+MAKANAN (KATA KERJA),Mendaur ulang,mendaur_ulang_id.mp3,أَعَادَ تَدْوِير - يُعِيدُ تَدْوِير,mendaur_ulang_ar.mp3,Recycle,mendaur_ulang_eng.mp3
+MAKANAN (KATA KERJA),Mengurangi,mengurangi_id.mp3,خَفَضَ - يَخْفِضُ,mengurangi_ar.mp3,Reduce,mengurangi_eng.mp3
+MAKANAN (KATA KERJA),Menyimpan,menyimpan_id.mp3,حَفِظَ - يَحْفَظُ,menyimpan_ar.mp3,Store,menyimpan_eng.mp3
+MAKANAN (KATA KERJA),Membuang sampah,membuang_sampah_id.mp3,رَمَى الزُّبَالَةَ - يَرْمِي الزُّبَالَةَ,membuang_sampah_ar.mp3,Dispose of trash,membuang_sampah_eng.mp3

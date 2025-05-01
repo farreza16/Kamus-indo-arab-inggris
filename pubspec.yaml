@@ -1,0 +1,86 @@
+name: kidzmeal
+description: "Linguistik For Kidz."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  flutter_tts: ^4.2.1
+  csv: ^5.0.1
+  http: ^1.3.0
+  logger: ^2.5.0
+  device_info_plus: ^11.2.2
+  url_launcher: ^6.3.1
+  shared_preferences: ^2.2.0
+  audioplayers: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+  remove_alpha_ios: false
+  web:
+    generate: false
+  windows:
+    generate: false
+  macos:
+    generate: false
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dictionary.csv
+    - assets/welcome.png
+    - assets/icon.png
+    - assets/splashh.png
+    - assets/kata_sapaan/
+    - assets/hari/
+    - assets/bulan_hijriah/
+    - assets/warna/
+    - assets/bulan_masehi/
+    - assets/angka_satuan/
+    - assets/angka_belasan/
+    - assets/puluhan_dimulai_dengan_satuan/
+    - assets/angka_ratusan/
+    - assets/pakaian/
+    - assets/buah_buahan1/
+    - assets/sayuran/
+    - assets/rempah_rempah/
+    - assets/fasilitas_umum/
+    - assets/anggota_tubuh/
+    - assets/anggota_keluarga/
+    - assets/alat_transportasi/
+    - assets/kamar_tidur/
+    - assets/kamar_mandi/
+    - assets/dapur/
+    - assets/ruang_keluarga/
+    - assets/taman/
+    - assets/lapangan/
+    - assets/sekolah/
+    - assets/kantin/
+    - assets/makanan/
+    - assets/buah_buahan2/
+    - assets/hewan_hewan/
+    - assets/profesi/
+    - assets/bab_2_part_1/
+    - assets/bab_2_part_2/
+    - assets/bab_2_part_3/
+    - assets/bab_2_part_4/
+    - assets/bab_2_part_5/
+    - assets/bab_2_part_6/
+    - assets/bab_2_part_7/
+    - assets/bab_2_part_8/
+
