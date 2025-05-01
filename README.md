@@ -1,6 +1,6 @@
 # kamus
 
-A new Flutter project.
+Kamus Speech To Text Bahasa indoensia - Ingrris - Arab Andorid
 
 ## Getting Started
 
